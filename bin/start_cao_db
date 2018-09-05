@@ -1,0 +1,5 @@
+#!/bin/sh
+
+./mysql-proxy --proxy-lua-script=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/deploymenttrack_notriggers.lua --proxy-backend-addresses=qacurrent-perfdb-01.vfmltech.com:13306 --proxy-address=jenkins:7000 --log-level=message --log-file=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/logs/caodb.out &
+
+#./mysql-proxy --proxy-lua-script=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/deploymenttrack_notriggers.lua --proxy-backend-addresses=192.168.249.18:3309 --proxy-address=jenkins:7000 --log-level=message --log-file=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/logs/caodb.out &

@@ -1,0 +1,7 @@
+2014-10-01 09:54:14: (critical) plugin proxy 0.8.3 started
+2014-10-01 09:54:14: (message) proxy listening on port jenkins:4042
+2014-10-01 09:54:14: (message) added read/write backend: dc01-db-02.prod-cloud.com:30308
+2014-10-01 09:54:37: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 09:55:40: (message) last message repeated 1 times
+2014-10-01 09:55:40: (message) Initiating shutdown, requested from signal handler
+2014-10-01 09:55:40: (message) shutting down normally, exit code is: 0

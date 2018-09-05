@@ -1,0 +1,11 @@
+2018-08-09 09:06:03: (critical) plugin proxy 0.8.3 started
+2018-08-09 09:06:03: (message) proxy listening on port jenkins:4042
+2018-08-09 09:06:03: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2018-08-09 09:25:18: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-09 09:27:22: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-09 09:35:25: (message) last message repeated 2 times
+2018-08-09 09:35:25: (message) Initiating shutdown, requested from signal handler
+2018-08-09 09:35:25: (message) shutting down normally, exit code is: 0
+2018-08-28 10:23:51: (critical) plugin proxy 0.8.3 started
+2018-08-28 10:23:52: (message) proxy listening on port jenkins:4042
+2018-08-28 10:23:52: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308

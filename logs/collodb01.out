@@ -1,0 +1,86 @@
+2013-06-26 10:33:07: (critical) plugin proxy 0.8.3 started
+2013-06-26 10:33:07: (message) proxy listening on port jenkins:60600
+2013-06-26 10:33:07: (message) added read/write backend: collodb01:30306
+2013-07-04 22:47:14: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2013-07-04 22:47:57: (critical) last message repeated 1 times
+2013-07-04 22:47:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2013-07-11 11:39:21: (critical) plugin proxy 0.8.3 started
+2013-07-11 11:39:21: (message) proxy listening on port jenkins:60600
+2013-07-11 11:39:21: (message) added read/write backend: collodb01:30306
+2013-08-02 11:00:33: (critical) plugin proxy 0.8.3 started
+2013-08-02 11:00:33: (message) proxy listening on port jenkins:60600
+2013-08-02 11:00:33: (message) added read/write backend: collodb01:30306
+2013-08-08 10:56:39: (critical) plugin proxy 0.8.3 started
+2013-08-08 10:56:39: (message) proxy listening on port jenkins:60600
+2013-08-08 10:56:39: (message) added read/write backend: collodb01:30306
+2013-08-13 21:02:46: (message) Initiating shutdown, requested from signal handler
+2013-08-13 21:02:47: (message) shutting down normally, exit code is: 0
+2013-08-14 10:37:16: (critical) plugin proxy 0.8.3 started
+2013-08-14 10:37:17: (message) proxy listening on port jenkins:60600
+2013-08-14 10:37:18: (message) added read/write backend: collodb01:30306
+2013-12-04 14:37:22: (message) Initiating shutdown, requested from signal handler
+2013-12-04 14:37:23: (message) shutting down normally, exit code is: 0
+2013-12-06 11:16:19: (critical) plugin proxy 0.8.3 started
+2013-12-06 11:16:19: (message) proxy listening on port jenkins:60600
+2013-12-06 11:16:19: (message) added read/write backend: collodb01:30306
+2013-12-09 21:55:54: (message) Initiating shutdown, requested from signal handler
+2013-12-09 21:55:54: (message) shutting down normally, exit code is: 0
+2013-12-09 21:56:05: (critical) plugin proxy 0.8.3 started
+2013-12-09 21:56:05: (message) proxy listening on port jenkins:60600
+2013-12-09 21:56:05: (message) added read/write backend: collodb01:30306
+2013-12-09 21:56:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2013-12-18 11:38:22: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-01-21 12:31:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-03-17 19:20:33: (message) Initiating shutdown, requested from signal handler
+2014-03-17 19:20:33: (message) shutting down normally, exit code is: 0
+2014-03-17 21:03:34: (critical) plugin proxy 0.8.3 started
+2014-03-17 21:03:34: (message) proxy listening on port jenkins:60600
+2014-03-17 21:03:34: (message) added read/write backend: collodb01:30306
+2014-03-27 19:35:17: (message) Initiating shutdown, requested from signal handler
+2014-03-27 19:35:17: (message) shutting down normally, exit code is: 0
+2014-03-28 08:44:59: (critical) plugin proxy 0.8.3 started
+2014-03-28 08:44:59: (message) proxy listening on port jenkins:60600
+2014-03-28 08:44:59: (message) added read/write backend: collodb01:30306
+2014-03-28 14:44:11: (critical) plugin proxy 0.8.3 started
+2014-03-28 14:44:11: (message) proxy listening on port jenkins:60602
+2014-03-28 14:44:11: (message) added read/write backend: collodb03:30306
+2014-03-28 14:45:16: (message) Initiating shutdown, requested from signal handler
+2014-03-28 14:45:16: (message) shutting down normally, exit code is: 0
+2014-03-28 14:45:44: (critical) plugin proxy 0.8.3 started
+2014-03-28 14:45:44: (message) proxy listening on port jenkins:6061
+2014-03-28 14:45:44: (message) added read/write backend: collodb03:30306
+2014-03-28 14:46:49: (critical) plugin proxy 0.8.3 started
+2014-03-28 14:46:49: (message) proxy listening on port jenkins:4043
+2014-03-28 14:46:49: (message) added read/write backend: collodb03:30306
+2014-03-28 14:47:38: (message) Initiating shutdown, requested from signal handler
+2014-03-28 14:47:39: (message) shutting down normally, exit code is: 0
+2014-03-28 14:47:43: (message) Initiating shutdown, requested from signal handler
+2014-03-28 14:47:43: (message) shutting down normally, exit code is: 0
+2014-04-04 21:38:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-04-07 09:15:07: (message) proxy-plugin.c.1664: connect(10.98.63.201:30306) failed: Connection refused. Retrying with different backend.
+2014-04-07 09:15:07: (critical) proxy-plugin.c.1773: Cannot connect, all backends are down.
+2014-04-07 09:16:00: (message) Initiating shutdown, requested from signal handler
+2014-04-07 09:16:01: (message) shutting down normally, exit code is: 0
+2014-04-07 09:16:37: (critical) plugin proxy 0.8.3 started
+2014-04-07 09:16:37: (message) proxy listening on port jenkins:60600
+2014-04-07 09:16:37: (message) added read/write backend: collodb01:30308
+2014-04-14 21:02:44: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-06-23 21:13:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-06-23 21:41:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-06-24 10:32:26: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-07-06 12:44:49: (message) Initiating shutdown, requested from signal handler
+2014-07-06 12:44:49: (message) shutting down normally, exit code is: 0
+2015-01-14 15:05:21: (critical) plugin proxy 0.8.3 started
+2015-01-14 15:05:21: (message) proxy listening on port jenkins:60600
+2015-01-14 15:05:21: (critical) getaddrinfo("collodb01") failed: Name or service not known
+2015-01-14 15:05:21: (critical) chassis-mainloop.c:267: applying config of plugin proxy failed
+2015-01-14 15:05:21: (critical) mysql-proxy-cli.c:597: Failure from chassis_mainloop. Shutting down.
+2015-01-14 15:05:21: (message) Initiating shutdown, requested from mysql-proxy-cli.c:598
+2015-01-14 15:05:21: (message) shutting down normally, exit code is: 1
+2015-04-09 11:00:11: (critical) plugin proxy 0.8.3 started
+2015-04-09 11:00:11: (message) proxy listening on port jenkins:60600
+2015-04-09 11:00:11: (critical) getaddrinfo("collodb01") failed: Name or service not known
+2015-04-09 11:00:11: (critical) chassis-mainloop.c:267: applying config of plugin proxy failed
+2015-04-09 11:00:11: (critical) mysql-proxy-cli.c:597: Failure from chassis_mainloop. Shutting down.
+2015-04-09 11:00:11: (message) Initiating shutdown, requested from mysql-proxy-cli.c:598
+2015-04-09 11:00:11: (message) shutting down normally, exit code is: 1

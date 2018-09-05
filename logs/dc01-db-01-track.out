@@ -1,0 +1,75 @@
+2014-10-01 09:56:23: (critical) plugin proxy 0.8.3 started
+2014-10-01 09:56:23: (message) proxy listening on port jenkins:4042
+2014-10-01 09:56:23: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2014-10-01 09:56:28: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 09:57:23: (critical) last message repeated 1 times
+2014-10-01 09:57:23: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:08:06: (critical) last message repeated 10 times
+2014-10-01 10:08:06: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:09:34: (critical) last message repeated 13 times
+2014-10-01 10:09:34: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:12:25: (critical) last message repeated 1 times
+2014-10-01 10:12:25: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:13:13: (critical) last message repeated 38 times
+2014-10-01 10:13:13: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:16:10: (critical) last message repeated 1 times
+2014-10-01 10:16:10: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:21:11: (critical) last message repeated 3 times
+2014-10-01 10:21:11: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:22:12: (critical) last message repeated 1 times
+2014-10-01 10:22:12: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:22:48: (critical) last message repeated 1 times
+2014-10-01 10:22:48: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:30:46: (critical) last message repeated 20 times
+2014-10-01 10:30:46: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:31:25: (critical) last message repeated 14 times
+2014-10-01 10:31:25: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:32:08: (critical) last message repeated 1 times
+2014-10-01 10:32:08: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:33:10: (critical) last message repeated 1 times
+2014-10-01 10:33:10: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:35:51: (critical) last message repeated 12 times
+2014-10-01 10:35:51: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:56:00: (critical) last message repeated 10 times
+2014-10-01 10:56:00: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:56:48: (critical) last message repeated 8 times
+2014-10-01 10:56:48: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:58:09: (critical) last message repeated 9 times
+2014-10-01 10:58:09: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 10:59:08: (critical) last message repeated 3 times
+2014-10-01 10:59:08: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 11:27:02: (critical) last message repeated 25 times
+2014-10-01 11:27:02: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 11:27:57: (critical) last message repeated 4 times
+2014-10-01 11:27:57: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 11:28:31: (critical) last message repeated 17 times
+2014-10-01 11:28:31: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 11:57:00: (critical) last message repeated 3 times
+2014-10-01 11:57:00: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 16:09:13: (critical) last message repeated 4 times
+2014-10-01 16:09:13: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 16:10:01: (critical) last message repeated 16 times
+2014-10-01 16:10:01: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 16:11:34: (critical) last message repeated 16 times
+2014-10-01 16:11:34: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 16:13:31: (critical) last message repeated 1 times
+2014-10-01 16:13:31: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 16:14:04: (critical) last message repeated 16 times
+2014-10-01 16:14:04: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 16:14:50: (critical) last message repeated 10 times
+2014-10-01 16:14:50: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 16:15:32: (critical) last message repeated 15 times
+2014-10-01 16:15:32: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 16:29:47: (critical) last message repeated 14 times
+2014-10-01 16:29:47: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-01 16:30:11: (critical) last message repeated 5 times
+2014-10-01 16:30:11: (critical) proxy-plugin.c.1773: Cannot connect, all backends are down.
+2014-10-01 16:30:16: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2014-10-02 09:58:26: (message) last message repeated 9 times
+2014-10-02 09:58:26: (message) Initiating shutdown, requested from signal handler
+2014-10-02 09:58:26: (message) shutting down normally, exit code is: 0
+2015-10-15 09:56:27: (critical) plugin proxy 0.8.3 started
+2015-10-15 09:56:27: (message) proxy listening on port jenkins:4042
+2015-10-15 09:56:27: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2015-10-15 09:58:01: (message) Initiating shutdown, requested from signal handler
+2015-10-15 09:58:01: (message) shutting down normally, exit code is: 0

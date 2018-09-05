@@ -1,0 +1,896 @@
+2014-07-06 12:48:24: (critical) plugin proxy 0.8.3 started
+2014-07-06 12:48:24: (message) proxy listening on port jenkins:60600
+2014-07-06 12:48:24: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2014-07-16 13:03:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-07-16 13:11:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-07-16 13:12:20: (critical) last message repeated 1 times
+2014-07-16 13:12:20: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-07-16 14:02:02: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-07-17 16:26:27: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:27: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:27: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:27: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:27: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:27: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:27: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:27: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:27: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:27: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:27: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:27: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:30: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:30: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:30: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:30: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:30: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:30: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:31: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:31: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:31: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:31: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:31: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:33: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:33: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:33: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:33: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:33: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:33: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:33: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:33: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:33: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:33: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:33: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:33: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:34: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:34: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:34: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:34: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:34: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:34: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:35: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:35: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:35: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:35: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:35: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:35: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:35: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:35: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:35: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:35: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:36: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:36: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:36: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:36: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:36: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:36: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:36: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:36: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:36: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:36: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:37: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:37: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:37: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:37: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:37: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:37: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:38: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:38: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:38: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:38: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:38: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:38: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:39: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:39: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:39: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:39: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:39: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:40: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:40: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:40: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:40: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:40: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:40: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:41: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:41: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:41: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:41: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:41: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:41: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:41: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:41: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:41: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:41: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:41: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:41: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:41: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:41: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:42: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:42: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:42: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:42: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:42: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:42: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:43: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:43: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:43: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:43: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:43: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:43: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:43: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:43: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:43: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:43: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:43: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:43: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:43: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:43: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:44: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:44: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:44: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:44: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:44: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:44: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:44: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:44: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:44: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:44: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:45: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:45: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:45: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:45: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:45: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:46: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:46: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:46: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:46: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:47: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:47: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:47: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:47: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:47: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:47: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:47: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:47: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:47: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:47: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:47: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:47: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:48: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:48: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:48: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:48: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:49: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:49: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:49: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:49: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:49: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:49: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:49: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:49: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:49: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:49: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:49: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:49: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:50: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:50: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:50: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:50: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:50: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:50: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:50: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:50: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:50: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:52: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:52: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:52: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:52: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:53: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:53: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:54: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:55: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:55: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:56: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:57: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:58: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:59: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:59: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:26:59: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:26:59: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:00: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:00: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:01: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:01: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:02: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:02: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:03: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:03: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:04: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:04: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:05: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:05: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:06: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:06: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:07: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:07: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:08: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:08: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:09: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:10: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:10: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:11: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:11: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:12: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:12: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:13: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:13: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:14: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:14: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:15: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:15: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:16: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:16: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:17: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:17: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:18: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:18: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:19: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:20: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:20: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:21: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:21: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:22: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:22: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:23: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:23: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:23: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:23: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:24: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:24: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:25: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:25: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:26: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:26: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:27: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:27: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:30: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:31: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:33: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:33: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:34: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:35: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:35: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:36: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:36: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:37: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:38: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:39: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:40: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:41: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:41: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:42: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:43: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:43: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:44: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:44: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:45: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:46: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:47: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:47: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:48: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:48: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:49: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:49: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:50: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:51: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:51: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:52: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:52: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:53: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:53: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:54: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:55: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:55: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:56: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:56: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:57: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:58: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:27:59: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:27:59: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:00: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:00: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:01: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:01: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:02: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:02: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:03: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:03: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:04: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:04: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:05: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:05: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:06: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:06: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:07: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:07: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:08: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:08: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:09: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:10: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:10: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:11: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:11: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:12: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:12: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:13: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:13: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:14: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:14: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:15: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:15: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:16: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:16: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:17: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:17: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:17: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:17: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:18: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:18: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:19: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:20: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:20: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:21: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:21: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:22: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:22: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:23: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:23: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:24: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:24: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:25: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:25: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:26: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:26: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:27: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:27: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:30: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:30: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:33: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:33: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:34: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:34: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:35: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:35: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:36: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:36: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:37: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:38: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:39: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:40: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:41: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:41: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:42: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:43: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:43: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:44: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:44: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:45: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:46: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:47: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:47: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:48: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:49: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:49: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:50: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:51: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:51: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:52: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:52: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:52: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:52: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:53: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:53: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:54: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:55: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:55: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:56: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:57: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:58: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:28:59: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:28:59: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:00: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:00: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:00: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:00: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:01: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:01: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:02: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:02: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:03: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:03: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:04: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:04: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:05: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:05: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:06: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:06: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:06: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:06: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:07: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:07: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:08: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:08: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:09: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:10: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:10: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:11: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:11: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:12: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:12: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:13: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:13: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:13: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:13: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:14: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:14: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:15: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:15: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:16: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:16: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:17: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:17: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:18: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:18: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:19: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:19: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:20: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:20: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:21: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:21: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:22: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:22: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:23: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:23: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:24: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:24: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:25: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:25: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:26: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:26: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:42: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:42: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:53: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:53: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:53: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:53: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:53: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:53: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:54: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:54: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:54: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:54: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:54: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:54: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:54: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:54: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:54: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:55: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:55: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:55: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:55: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:55: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:55: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:55: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:55: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:55: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:55: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:55: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:55: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:56: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:56: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:56: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:56: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:56: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:56: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:56: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:56: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:56: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:57: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:57: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:57: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:57: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:57: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:57: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:57: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:57: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:57: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:58: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:58: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:58: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:58: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:58: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:58: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-17 16:29:58: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-07-17 16:29:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2014-07-21 21:24:14: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-07-21 21:44:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-07-25 13:17:25: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-07-25 13:28:23: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-07-25 13:34:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-07-29 11:52:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-08-12 23:19:01: (message) Initiating shutdown, requested from signal handler
+2014-08-12 23:19:01: (message) shutting down normally, exit code is: 0
+2014-08-13 09:16:33: (critical) plugin proxy 0.8.3 started
+2014-08-13 09:16:33: (message) proxy listening on port jenkins:60600
+2014-08-13 09:16:33: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2014-09-10 16:27:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-09-23 16:09:17: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-12-04 09:37:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-12-13 02:30:16: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-12-13 02:30:17: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:298: attempt to index global 'res3' (a nil value)
+2014-12-13 02:30:17: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2014-12-13 02:30:17: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 3 resultset(s). injection-id: 6
+2015-01-13 14:03:16: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-01-13 21:57:12: (message) Initiating shutdown, requested from signal handler
+2015-01-13 21:57:12: (message) shutting down normally, exit code is: 0
+2015-01-14 15:05:47: (critical) plugin proxy 0.8.3 started
+2015-01-14 15:05:47: (message) proxy listening on port jenkins:60600
+2015-01-14 15:05:47: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2015-02-12 14:46:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-08 15:13:31: (message) Initiating shutdown, requested from signal handler
+2015-04-08 15:13:32: (message) shutting down normally, exit code is: 0
+2015-04-09 11:00:27: (critical) plugin proxy 0.8.3 started
+2015-04-09 11:00:27: (message) proxy listening on port jenkins:60600
+2015-04-09 11:00:27: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2015-04-15 20:52:26: (message) Initiating shutdown, requested from signal handler
+2015-04-15 20:52:26: (message) shutting down normally, exit code is: 0
+2015-04-16 08:14:47: (critical) plugin proxy 0.8.3 started
+2015-04-16 08:14:47: (message) proxy listening on port jenkins:60600
+2015-04-16 08:14:47: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2015-04-17 11:30:26: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-27 08:42:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-03 12:36:25: (message) Initiating shutdown, requested from signal handler
+2015-05-03 12:36:25: (message) shutting down normally, exit code is: 0
+2015-05-04 09:13:02: (critical) plugin proxy 0.8.3 started
+2015-05-04 09:13:02: (message) proxy listening on port jenkins:60600
+2015-05-04 09:13:02: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2015-05-04 13:55:20: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-06-10 08:36:44: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-07-06 15:16:22: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-07-06 17:50:11: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-07-06 17:50:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-07-06 17:59:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-07-10 17:50:34: (message) Initiating shutdown, requested from signal handler
+2015-07-10 17:50:34: (message) shutting down normally, exit code is: 0
+2015-07-13 11:41:09: (critical) plugin proxy 0.8.3 started
+2015-07-13 11:41:09: (message) proxy listening on port jenkins:60600
+2015-07-13 11:41:09: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2015-07-13 11:51:01: (critical) plugin proxy 0.8.3 started
+2015-07-13 11:51:01: (critical) network-socket.c:451: bind(192.168.253.103:60600) failed: Address already in use (98)
+2015-07-13 11:51:01: (critical) chassis-mainloop.c:267: applying config of plugin proxy failed
+2015-07-13 11:51:01: (critical) mysql-proxy-cli.c:597: Failure from chassis_mainloop. Shutting down.
+2015-07-13 11:51:01: (message) Initiating shutdown, requested from mysql-proxy-cli.c:598
+2015-07-13 11:51:01: (message) shutting down normally, exit code is: 1
+2015-08-14 17:29:35: (message) Initiating shutdown, requested from signal handler
+2015-08-14 17:29:35: (message) shutting down normally, exit code is: 0
+2015-08-17 09:33:37: (critical) plugin proxy 0.8.3 started
+2015-08-17 09:33:37: (message) proxy listening on port jenkins:60600
+2015-08-17 09:33:37: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2015-08-31 17:35:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-09-01 08:35:24: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-09-02 12:58:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-09-02 13:00:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-09-12 22:06:22: (message) Initiating shutdown, requested from signal handler
+2015-09-12 22:06:22: (message) shutting down normally, exit code is: 0
+2015-09-15 09:37:19: (critical) plugin proxy 0.8.3 started
+2015-09-15 09:37:19: (message) proxy listening on port jenkins:60600
+2015-09-15 09:37:19: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2015-09-18 17:10:17: (message) Initiating shutdown, requested from signal handler
+2015-09-18 17:10:18: (message) shutting down normally, exit code is: 0
+2015-09-21 09:31:57: (critical) plugin proxy 0.8.3 started
+2015-09-21 09:31:57: (message) proxy listening on port jenkins:60600
+2015-09-21 09:31:57: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2015-10-06 08:34:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-10-14 17:24:40: (message) Initiating shutdown, requested from signal handler
+2015-10-14 17:24:40: (message) shutting down normally, exit code is: 0
+2015-10-15 09:58:20: (critical) plugin proxy 0.8.3 started
+2015-10-15 09:58:20: (message) proxy listening on port jenkins:60600
+2015-10-15 09:58:20: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2015-10-21 11:02:10: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-10-27 17:31:48: (message) Initiating shutdown, requested from signal handler
+2015-10-27 17:31:49: (message) shutting down normally, exit code is: 0
+2015-10-28 10:34:05: (critical) plugin proxy 0.8.3 started
+2015-10-28 10:34:05: (message) proxy listening on port jenkins:60600
+2015-10-28 10:34:05: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2015-11-06 17:41:03: (message) Initiating shutdown, requested from signal handler
+2015-11-06 17:41:03: (message) shutting down normally, exit code is: 0
+2015-11-06 17:25:47: (critical) plugin proxy 0.8.3 started
+2015-11-06 17:25:48: (message) proxy listening on port jenkins:60600
+2015-11-06 17:25:48: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2015-11-10 20:44:21: (message) Initiating shutdown, requested from signal handler
+2015-11-10 20:44:21: (message) shutting down normally, exit code is: 0
+2015-11-11 11:15:55: (critical) plugin proxy 0.8.3 started
+2015-11-11 11:15:55: (message) proxy listening on port jenkins:60600
+2015-11-11 11:15:55: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2015-11-19 14:41:55: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-11-23 10:31:03: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-12-08 08:34:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-12-18 14:12:10: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-02-02 12:32:33: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-02-23 17:23:41: (message) Initiating shutdown, requested from signal handler
+2016-02-23 17:23:42: (message) shutting down normally, exit code is: 0
+2016-02-24 09:43:54: (critical) plugin proxy 0.8.3 started
+2016-02-24 09:43:54: (message) proxy listening on port jenkins:60600
+2016-02-24 09:43:54: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2016-02-26 15:31:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-02-26 15:31:58: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:298: attempt to index global 'res3' (a nil value)
+2016-02-26 15:31:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2016-02-26 15:31:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-03-14 15:31:24: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-03-24 17:17:50: (message) Initiating shutdown, requested from signal handler
+2016-03-24 17:17:50: (message) shutting down normally, exit code is: 0
+2016-03-28 10:30:53: (critical) plugin proxy 0.8.3 started
+2016-03-28 10:30:53: (message) proxy listening on port jenkins:60600
+2016-03-28 10:30:53: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2016-04-18 16:11:35: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-25 16:31:05: (message) Initiating shutdown, requested from signal handler
+2016-04-25 16:31:05: (message) shutting down normally, exit code is: 0
+2016-04-27 14:21:23: (critical) plugin proxy 0.8.3 started
+2016-04-27 14:21:23: (message) proxy listening on port jenkins:60600
+2016-04-27 14:21:23: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2016-05-03 16:26:23: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-05-03 20:00:49: (message) Initiating shutdown, requested from signal handler
+2016-05-03 20:00:49: (message) shutting down normally, exit code is: 0
+2016-05-04 13:55:01: (critical) plugin proxy 0.8.3 started
+2016-05-04 13:55:01: (message) proxy listening on port jenkins:60600
+2016-05-04 13:55:01: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2016-05-12 09:33:35: (critical) plugin proxy 0.8.3 started
+2016-05-12 09:33:35: (critical) network-socket.c:451: bind(192.168.253.103:60600) failed: Address already in use (98)
+2016-05-12 09:33:35: (critical) chassis-mainloop.c:267: applying config of plugin proxy failed
+2016-05-12 09:33:35: (critical) mysql-proxy-cli.c:597: Failure from chassis_mainloop. Shutting down.
+2016-05-12 09:33:35: (message) Initiating shutdown, requested from mysql-proxy-cli.c:598
+2016-05-12 09:33:35: (message) shutting down normally, exit code is: 1
+2016-06-17 16:30:18: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-06-21 17:27:28: (message) Initiating shutdown, requested from signal handler
+2016-06-21 17:27:28: (message) shutting down normally, exit code is: 0
+2016-06-22 09:37:20: (critical) plugin proxy 0.8.3 started
+2016-06-22 09:37:20: (message) proxy listening on port jenkins:60600
+2016-06-22 09:37:20: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2016-06-22 12:08:48: (message) Initiating shutdown, requested from signal handler
+2016-06-22 12:08:48: (message) shutting down normally, exit code is: 0
+2016-06-22 14:47:25: (critical) plugin proxy 0.8.3 started
+2016-06-22 14:47:25: (message) proxy listening on port jenkins:60600
+2016-06-22 14:47:25: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2016-07-08 15:42:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-07-11 11:44:26: (message) Initiating shutdown, requested from signal handler
+2016-07-11 11:44:27: (message) shutting down normally, exit code is: 0
+2016-07-11 11:44:43: (critical) plugin proxy 0.8.3 started
+2016-07-11 11:44:43: (message) proxy listening on port jenkins:60600
+2016-07-11 11:44:43: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2016-07-11 11:46:11: (message) Initiating shutdown, requested from signal handler
+2016-07-11 11:46:11: (message) shutting down normally, exit code is: 0
+2016-07-13 14:19:06: (critical) plugin proxy 0.8.3 started
+2016-07-13 14:19:06: (message) proxy listening on port jenkins:60600
+2016-07-13 14:19:06: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2016-10-05 09:49:47: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-11-09 17:39:56: (message) Initiating shutdown, requested from signal handler
+2016-11-09 17:39:57: (message) shutting down normally, exit code is: 0
+2016-11-10 08:49:53: (critical) plugin proxy 0.8.3 started
+2016-11-10 08:49:53: (message) proxy listening on port jenkins:60600
+2016-11-10 08:49:53: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2016-11-22 17:03:45: (message) Initiating shutdown, requested from signal handler
+2016-11-22 17:03:45: (message) shutting down normally, exit code is: 0
+2016-11-23 10:59:12: (critical) plugin proxy 0.8.3 started
+2016-11-23 10:59:12: (message) proxy listening on port jenkins:60600
+2016-11-23 10:59:12: (message) added read/write backend: dc01-db-01.prod-cloud.com:30308
+2017-01-19 15:27:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2017-02-15 09:07:16: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2017-02-28 10:56:02: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2017-03-29 18:02:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2017-09-12 11:38:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2017-11-27 10:50:23: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2018-08-09 10:44:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61

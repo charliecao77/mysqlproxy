@@ -1,0 +1,10 @@
+2016-08-03 08:15:56: (critical) plugin proxy 0.8.3 started
+2016-08-03 08:15:56: (message) proxy listening on port jenkins:60601
+2016-08-03 08:15:56: (message) added read/write backend: dc01-db-tmp-01.prod-cloud.com:30308
+2016-08-03 11:39:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-08-03 11:39:50: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:298: attempt to index global 'res3' (a nil value)
+2016-08-03 11:39:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2016-08-03 11:39:51: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 3 resultset(s). injection-id: 6
+2016-08-03 11:47:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-08-11 16:53:30: (message) Initiating shutdown, requested from signal handler
+2016-08-11 16:53:30: (message) shutting down normally, exit code is: 0

@@ -1,0 +1,549 @@
+2013-06-26 10:32:32: (critical) plugin proxy 0.8.3 started
+2013-06-26 10:32:32: (message) proxy listening on port jenkins:5052
+2013-06-26 10:32:32: (message) added read/write backend: qa-current-db01:3306
+2013-07-11 11:38:56: (critical) plugin proxy 0.8.3 started
+2013-07-11 11:38:56: (message) proxy listening on port jenkins:5052
+2013-07-11 11:38:56: (message) added read/write backend: qa-current-db01:3306
+2013-08-02 11:01:51: (critical) plugin proxy 0.8.3 started
+2013-08-02 11:01:51: (message) proxy listening on port jenkins:5052
+2013-08-02 11:01:51: (message) added read/write backend: qa-current-db01:3306
+2013-08-08 10:59:22: (critical) plugin proxy 0.8.3 started
+2013-08-08 10:59:22: (message) proxy listening on port jenkins:5052
+2013-08-08 10:59:22: (message) added read/write backend: qa-current-db01:3306
+2013-08-08 11:47:47: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2013-08-08 12:00:07: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2013-08-13 21:02:46: (message) Initiating shutdown, requested from signal handler
+2013-08-13 21:02:47: (message) shutting down normally, exit code is: 0
+2013-08-14 10:37:47: (critical) plugin proxy 0.8.3 started
+2013-08-14 10:37:48: (message) proxy listening on port jenkins:5052
+2013-08-14 10:37:49: (message) added read/write backend: qa-current-db01:3306
+2013-10-10 11:56:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2013-12-04 14:37:22: (message) last message repeated 1 times
+2013-12-04 14:37:22: (message) Initiating shutdown, requested from signal handler
+2013-12-04 14:37:23: (message) shutting down normally, exit code is: 0
+2013-12-06 11:17:05: (critical) plugin proxy 0.8.3 started
+2013-12-06 11:17:05: (message) proxy listening on port jenkins:5052
+2013-12-06 11:17:05: (message) added read/write backend: qa-current-db01:3306
+2013-12-13 09:52:18: (message) Initiating shutdown, requested from signal handler
+2013-12-13 09:52:19: (message) shutting down normally, exit code is: 0
+2013-12-13 09:52:57: (critical) plugin proxy 0.8.3 started
+2013-12-13 09:52:57: (message) proxy listening on port jenkins:5052
+2013-12-13 09:52:57: (message) added read/write backend: qa-current-db01:3306
+2013-12-16 09:53:24: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2013-12-16 10:39:06: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-01-09 16:16:18: (message) Initiating shutdown, requested from signal handler
+2014-01-09 16:16:19: (message) shutting down normally, exit code is: 0
+2014-01-09 16:17:16: (critical) plugin proxy 0.8.3 started
+2014-01-09 16:17:16: (message) proxy listening on port jenkins:5052
+2014-01-09 16:17:16: (message) added read/write backend: qa-current-db01:3306
+2014-01-17 14:54:41: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-01-20 08:30:47: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-01-20 14:21:17: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-02-24 16:00:14: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-02-28 09:20:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-02-28 09:23:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-02-28 11:33:36: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-03-14 09:41:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-03-17 19:20:33: (message) Initiating shutdown, requested from signal handler
+2014-03-17 19:20:33: (message) shutting down normally, exit code is: 0
+2014-03-18 14:23:20: (critical) plugin proxy 0.8.3 started
+2014-03-18 14:23:20: (message) proxy listening on port jenkins:5052
+2014-03-18 14:23:20: (message) added read/write backend: qa-current-db01:3306
+2014-03-27 19:35:17: (message) Initiating shutdown, requested from signal handler
+2014-03-27 19:35:18: (message) shutting down normally, exit code is: 0
+2014-03-28 08:44:33: (critical) plugin proxy 0.8.3 started
+2014-03-28 08:44:33: (message) proxy listening on port jenkins:5052
+2014-03-28 08:44:33: (message) added read/write backend: qa-current-db01:3306
+2014-04-01 10:27:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-04-11 15:30:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 7
+2014-04-11 15:30:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 61
+2014-04-11 15:36:08: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-04-11 15:38:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-04-11 15:38:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 7
+2014-04-11 15:39:08: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-04-14 09:47:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-04-15 14:11:10: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-04-17 10:25:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-04-17 10:25:09: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2014-04-17 10:25:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2014-04-17 10:25:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 3 resultset(s). injection-id: 6
+2014-04-17 15:57:45: (message) proxy-plugin.c.1664: connect(10.253.253.47:3306) failed: Connection refused. Retrying with different backend.
+2014-04-17 15:57:45: (critical) proxy-plugin.c.1773: Cannot connect, all backends are down.
+2014-04-17 16:01:14: (message) Initiating shutdown, requested from signal handler
+2014-04-17 16:01:15: (message) shutting down normally, exit code is: 0
+2014-04-17 16:01:45: (critical) plugin proxy 0.8.3 started
+2014-04-17 16:01:45: (message) proxy listening on port jenkins:5052
+2014-04-17 16:01:45: (message) added read/write backend: qa-current-db01:13306
+2014-05-13 10:25:59: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-05-29 10:35:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-05-29 10:37:25: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-06-03 10:42:15: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-06-05 16:46:53: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-06-06 11:36:21: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-06-13 10:13:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-06-13 10:14:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-07-02 16:14:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-07-23 11:44:52: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-07-24 13:37:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-07-30 15:01:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-08-01 16:11:21: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-08-01 16:24:33: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-08-06 08:30:25: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-08-06 10:12:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-08-06 11:31:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 7
+2014-08-06 11:31:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 61
+2014-08-06 11:52:35: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-08-06 11:59:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-08-07 09:57:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-08-07 10:04:08: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-08-07 10:05:08: (message) Initiating shutdown, requested from signal handler
+2014-08-07 10:05:08: (message) shutting down normally, exit code is: 0
+2014-08-07 10:05:43: (critical) plugin proxy 0.8.3 started
+2014-08-07 10:05:43: (message) proxy listening on port jenkins:5052
+2014-08-07 10:05:43: (message) added read/write backend: qa-current-db01:13306
+2014-08-07 10:05:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-08-07 10:07:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-08-07 10:48:13: (critical) last message repeated 1 times
+2014-08-07 10:48:13: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-08-07 11:01:35: (message) Initiating shutdown, requested from signal handler
+2014-08-07 11:01:36: (message) shutting down normally, exit code is: 0
+2014-08-07 11:01:43: (critical) plugin proxy 0.8.3 started
+2014-08-07 11:01:43: (message) proxy listening on port jenkins:5052
+2014-08-07 11:01:43: (message) added read/write backend: qa-current-db01:13306
+2014-08-07 11:02:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-08-07 11:05:35: (message) Initiating shutdown, requested from signal handler
+2014-08-07 11:05:35: (message) shutting down normally, exit code is: 0
+2014-08-07 11:05:45: (critical) plugin proxy 0.8.3 started
+2014-08-07 11:05:45: (message) proxy listening on port jenkins:5052
+2014-08-07 11:05:45: (message) added read/write backend: qa-current-db01:13306
+2014-08-12 10:25:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-08-12 23:19:01: (message) Initiating shutdown, requested from signal handler
+2014-08-12 23:19:01: (message) shutting down normally, exit code is: 0
+2014-08-13 08:58:26: (critical) plugin proxy 0.8.3 started
+2014-08-13 08:58:26: (message) proxy listening on port jenkins:5052
+2014-08-13 08:58:26: (message) added read/write backend: qa-current-db01:13306
+2014-08-15 14:46:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-08-15 15:18:21: (message) Initiating shutdown, requested from signal handler
+2014-08-15 15:18:21: (message) shutting down normally, exit code is: 0
+2014-08-15 15:18:29: (critical) plugin proxy 0.8.3 started
+2014-08-15 15:18:29: (message) proxy listening on port jenkins:5052
+2014-08-15 15:18:29: (message) added read/write backend: qa-current-db01:13306
+2014-08-18 15:23:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-08-20 10:48:38: (message) Initiating shutdown, requested from signal handler
+2014-08-20 10:48:38: (message) shutting down normally, exit code is: 0
+2014-08-20 10:48:49: (critical) plugin proxy 0.8.3 started
+2014-08-20 10:48:49: (message) proxy listening on port jenkins:5052
+2014-08-20 10:48:49: (message) added read/write backend: qa-current-db01:13306
+2014-08-27 12:18:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-08-29 09:12:14: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-09-10 11:50:21: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-09-22 09:51:11: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-09-29 11:25:24: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-09-29 13:29:55: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-09-29 13:31:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2014-09-30 11:42:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-10-22 14:20:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-10-22 14:22:04: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-10-27 13:13:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-10-30 16:38:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-11-03 09:28:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-11-05 08:18:04: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-11-05 08:18:49: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-11-05 11:10:52: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-11-12 14:07:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-12-09 08:38:10: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-12-19 14:23:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-01-05 15:55:01: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-01-13 21:57:12: (message) Initiating shutdown, requested from signal handler
+2015-01-13 21:57:13: (message) shutting down normally, exit code is: 0
+2015-01-14 15:03:19: (critical) plugin proxy 0.8.3 started
+2015-01-14 15:03:19: (message) proxy listening on port jenkins:5052
+2015-01-14 15:03:19: (message) added read/write backend: qa-current-db01:13306
+2015-02-13 09:09:25: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-02-17 09:50:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-02-17 09:51:55: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-02-19 09:33:18: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-02-23 19:28:36: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-03-12 10:18:44: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-03-19 11:03:26: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-03-19 16:12:51: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-03-23 15:22:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-03-24 15:08:06: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-03-26 10:55:16: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-06 12:51:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-08 14:47:10: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-08 15:13:31: (message) Initiating shutdown, requested from signal handler
+2015-04-08 15:13:31: (message) shutting down normally, exit code is: 0
+2015-04-09 11:01:00: (critical) plugin proxy 0.8.3 started
+2015-04-09 11:01:00: (message) proxy listening on port jenkins:5052
+2015-04-09 11:01:00: (message) added read/write backend: qa-current-db01:13306
+2015-04-09 11:03:53: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-09 11:36:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-09 11:42:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-09 11:44:23: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-09 11:56:18: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-09 11:59:11: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-09 12:07:33: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-09 12:18:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-09 14:39:47: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-09 14:40:22: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-15 20:52:26: (message) last message repeated 1 times
+2015-04-15 20:52:26: (message) Initiating shutdown, requested from signal handler
+2015-04-15 20:52:26: (message) shutting down normally, exit code is: 0
+2015-04-16 08:15:31: (critical) plugin proxy 0.8.3 started
+2015-04-16 08:15:31: (message) proxy listening on port jenkins:5052
+2015-04-16 08:15:31: (message) added read/write backend: qa-current-db01:13306
+2015-04-17 11:56:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-23 16:00:10: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-27 10:41:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-28 12:44:52: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-04-30 11:05:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-03 12:36:25: (message) Initiating shutdown, requested from signal handler
+2015-05-03 12:36:25: (message) shutting down normally, exit code is: 0
+2015-05-04 09:13:30: (critical) plugin proxy 0.8.3 started
+2015-05-04 09:13:30: (message) proxy listening on port jenkins:5052
+2015-05-04 09:13:30: (message) added read/write backend: qa-current-db01:13306
+2015-05-05 14:46:16: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-06 14:02:59: (message) Initiating shutdown, requested from signal handler
+2015-05-06 14:02:59: (message) shutting down normally, exit code is: 0
+2015-05-06 14:03:08: (critical) plugin proxy 0.8.3 started
+2015-05-06 14:03:08: (message) proxy listening on port jenkins:5052
+2015-05-06 14:03:08: (message) added read/write backend: qa-current-db01:13306
+2015-05-06 14:15:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-06 14:16:31: (critical) last message repeated 2 times
+2015-05-06 14:16:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-06 14:18:35: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-06 14:19:56: (critical) last message repeated 1 times
+2015-05-06 14:19:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-06 14:20:33: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-06 14:21:34: (critical) last message repeated 1 times
+2015-05-06 14:21:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-06 14:22:07: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-06 14:24:01: (critical) last message repeated 2 times
+2015-05-06 14:24:01: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-06 14:25:21: (critical) last message repeated 1 times
+2015-05-06 14:25:21: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-06 14:27:24: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-06 14:28:03: (critical) last message repeated 1 times
+2015-05-06 14:28:03: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-06 14:48:29: (critical) last message repeated 1 times
+2015-05-06 14:48:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-08 14:01:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-15 15:46:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-19 12:47:44: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-20 15:52:08: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-21 08:10:13: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-21 08:13:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-21 08:14:35: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-21 08:15:14: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-05-21 15:08:24: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-06-03 11:57:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-06-05 13:58:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-06-05 14:19:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-06-05 16:21:59: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-06-08 09:21:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-06-08 10:01:04: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-06-24 13:00:10: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-06-26 08:39:23: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-06-26 08:44:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-06-26 12:12:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-07-10 17:50:34: (message) Initiating shutdown, requested from signal handler
+2015-07-10 17:50:34: (message) shutting down normally, exit code is: 0
+2015-07-13 11:48:21: (critical) plugin proxy 0.8.3 started
+2015-07-13 11:48:21: (message) proxy listening on port jenkins:5052
+2015-07-13 11:48:21: (message) added read/write backend: qa-current-db01:13306
+2015-07-13 16:15:06: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-07-16 10:43:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-07-17 10:14:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-07-17 10:18:55: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-07-17 10:27:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-07-20 13:28:05: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-07-23 13:16:25: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-07-24 15:47:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-08-11 13:13:41: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-08-13 13:19:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-08-14 17:29:35: (message) Initiating shutdown, requested from signal handler
+2015-08-14 17:29:35: (message) shutting down normally, exit code is: 0
+2015-08-17 09:32:12: (critical) plugin proxy 0.8.3 started
+2015-08-17 09:32:12: (message) proxy listening on port jenkins:5052
+2015-08-17 09:32:12: (message) added read/write backend: qa-current-db01:13306
+2015-08-17 12:36:22: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-09-01 12:56:51: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-09-04 08:28:13: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-09-12 22:06:22: (message) Initiating shutdown, requested from signal handler
+2015-09-12 22:06:22: (message) shutting down normally, exit code is: 0
+2015-09-15 09:37:48: (critical) plugin proxy 0.8.3 started
+2015-09-15 09:37:48: (message) proxy listening on port jenkins:5052
+2015-09-15 09:37:48: (message) added read/write backend: qa-current-db01:13306
+2015-09-18 17:10:17: (message) Initiating shutdown, requested from signal handler
+2015-09-18 17:10:17: (message) shutting down normally, exit code is: 0
+2015-09-21 09:29:49: (critical) plugin proxy 0.8.3 started
+2015-09-21 09:29:49: (message) proxy listening on port jenkins:5052
+2015-09-21 09:29:49: (message) added read/write backend: qa-current-db01:13306
+2015-09-24 12:58:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-10-01 12:31:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-10-06 09:50:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-10-07 10:38:14: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-10-07 10:56:06: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-10-14 17:24:40: (message) Initiating shutdown, requested from signal handler
+2015-10-14 17:24:40: (message) shutting down normally, exit code is: 0
+2015-10-15 09:59:18: (critical) plugin proxy 0.8.3 started
+2015-10-15 09:59:18: (message) proxy listening on port jenkins:5052
+2015-10-15 09:59:18: (message) added read/write backend: qa-current-db01:13306
+2015-10-26 11:16:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-10-27 17:31:48: (message) Initiating shutdown, requested from signal handler
+2015-10-27 17:31:49: (message) shutting down normally, exit code is: 0
+2015-10-28 10:34:37: (critical) plugin proxy 0.8.3 started
+2015-10-28 10:34:37: (message) proxy listening on port jenkins:5052
+2015-10-28 10:34:37: (message) added read/write backend: qa-current-db01:13306
+2015-10-28 14:11:03: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-11-06 17:41:03: (message) Initiating shutdown, requested from signal handler
+2015-11-06 17:41:03: (message) shutting down normally, exit code is: 0
+2015-11-06 17:25:10: (critical) plugin proxy 0.8.3 started
+2015-11-06 17:25:10: (message) proxy listening on port jenkins:5052
+2015-11-06 17:25:10: (message) added read/write backend: qa-current-db01:13306
+2015-11-10 20:44:21: (message) Initiating shutdown, requested from signal handler
+2015-11-10 20:44:21: (message) shutting down normally, exit code is: 0
+2015-11-11 11:15:14: (critical) plugin proxy 0.8.3 started
+2015-11-11 11:15:14: (message) proxy listening on port jenkins:5052
+2015-11-11 11:15:14: (message) added read/write backend: qa-current-db01:13306
+2015-11-16 10:42:03: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-11-17 08:01:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-12-03 15:11:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-12-10 11:39:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-12-10 11:41:23: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-12-10 11:42:35: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-12-10 15:23:13: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2015-12-14 11:23:08: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-01-18 09:25:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-01-20 15:38:20: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-02-02 09:56:13: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-02-02 09:58:08: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-02-02 10:41:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-02-17 10:58:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-02-17 11:15:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-02-19 09:47:08: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-02-23 17:23:41: (message) Initiating shutdown, requested from signal handler
+2016-02-23 17:23:42: (message) shutting down normally, exit code is: 0
+2016-02-24 10:24:33: (critical) plugin proxy 0.8.3 started
+2016-02-24 10:24:33: (message) proxy listening on port jenkins:5052
+2016-02-24 10:24:33: (message) added read/write backend: qa-current-db01:13306
+2016-02-24 10:30:33: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-02-24 14:58:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-03-24 17:17:50: (message) Initiating shutdown, requested from signal handler
+2016-03-24 17:17:50: (message) shutting down normally, exit code is: 0
+2016-03-28 10:30:42: (critical) plugin proxy 0.8.3 started
+2016-03-28 10:30:42: (message) proxy listening on port jenkins:5052
+2016-03-28 10:30:42: (message) added read/write backend: qa-current-db01:13306
+2016-04-06 15:26:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-12 11:36:11: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-12 12:40:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-12 12:45:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-12 12:53:06: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-12 12:53:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-12 13:02:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-12 13:03:50: (message) Initiating shutdown, requested from signal handler
+2016-04-12 13:03:50: (message) shutting down normally, exit code is: 0
+2016-04-12 13:04:04: (critical) plugin proxy 0.8.3 started
+2016-04-12 13:04:05: (message) proxy listening on port jenkins:5052
+2016-04-12 13:04:05: (message) added read/write backend: qa-current-db01:13306
+2016-04-12 13:04:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-12 13:07:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-12 13:11:59: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-14 13:30:35: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-14 13:35:08: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-18 13:12:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-18 13:16:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-22 09:53:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-22 10:07:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-25 16:31:05: (message) Initiating shutdown, requested from signal handler
+2016-04-25 16:31:05: (message) shutting down normally, exit code is: 0
+2016-04-27 14:21:45: (critical) plugin proxy 0.8.3 started
+2016-04-27 14:21:45: (message) proxy listening on port jenkins:5052
+2016-04-27 14:21:45: (message) added read/write backend: qa-current-db01:13306
+2016-04-27 14:22:16: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2016-04-28 10:54:30: (message) Initiating shutdown, requested from signal handler
+2016-04-28 10:54:30: (message) shutting down normally, exit code is: 0
+2016-04-28 10:55:11: (critical) plugin proxy 0.8.3 started
+2016-04-28 10:55:11: (message) proxy listening on port jenkins:5052
+2016-04-28 10:55:11: (message) added read/write backend: qa-current-db01:13306
+2016-05-03 20:00:49: (message) Initiating shutdown, requested from signal handler
+2016-05-03 20:00:49: (message) shutting down normally, exit code is: 0
+2016-05-04 13:55:24: (critical) plugin proxy 0.8.3 started
+2016-05-04 13:55:24: (message) proxy listening on port jenkins:5052
+2016-05-04 13:55:24: (message) added read/write backend: qa-current-db01:13306
+2016-05-10 11:17:02: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-05-10 11:17:02: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-10 11:17:02: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2016-05-10 11:17:02: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-05-12 09:32:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-05-12 09:32:34: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 09:32:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2016-05-12 09:32:34: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-05-12 09:33:13: (critical) plugin proxy 0.8.3 started
+2016-05-12 09:33:13: (critical) network-socket.c:451: bind(192.168.253.103:5052) failed: Address already in use (98)
+2016-05-12 09:33:13: (critical) chassis-mainloop.c:267: applying config of plugin proxy failed
+2016-05-12 09:33:13: (critical) mysql-proxy-cli.c:597: Failure from chassis_mainloop. Shutting down.
+2016-05-12 09:33:13: (message) Initiating shutdown, requested from mysql-proxy-cli.c:598
+2016-05-12 09:33:13: (message) shutting down normally, exit code is: 1
+2016-05-12 09:33:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-05-12 09:33:45: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 09:33:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2016-05-12 09:33:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-05-12 15:40:03: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-05-12 15:40:03: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:40:03: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2016-05-12 15:40:03: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-05-12 15:42:27: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:27: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:27: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:27: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:30: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:30: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:31: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:31: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:31: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:31: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 15:42:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 15:42:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:13: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:13: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:14: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:14: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:14: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:14: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:14: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:14: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:15: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:15: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:15: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:15: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:15: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:15: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:16: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:16: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:16: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:16: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:16: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:16: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:17: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:17: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:17: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:17: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:17: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:17: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:18: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:18: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:18: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:18: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:19: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:19: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:19: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:19: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:20: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:20: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-05-12 16:00:20: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-05-12 16:00:20: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 5
+2016-06-21 09:13:49: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-06-21 09:13:49: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-06-21 09:13:49: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2016-06-21 09:13:49: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-06-21 17:27:28: (message) Initiating shutdown, requested from signal handler
+2016-06-21 17:27:28: (message) shutting down normally, exit code is: 0
+2016-06-22 09:37:30: (critical) plugin proxy 0.8.3 started
+2016-06-22 09:37:30: (message) proxy listening on port jenkins:5052
+2016-06-22 09:37:30: (message) added read/write backend: qa-current-db01:13306
+2016-06-22 12:08:48: (message) Initiating shutdown, requested from signal handler
+2016-06-22 12:08:48: (message) shutting down normally, exit code is: 0
+2016-06-22 14:47:44: (critical) plugin proxy 0.8.3 started
+2016-06-22 14:47:44: (message) proxy listening on port jenkins:5052
+2016-06-22 14:47:44: (message) added read/write backend: qa-current-db01:13306
+2016-07-26 08:30:01: (message) proxy-plugin.c.1664: connect(10.253.253.47:13306) failed: Connection refused. Retrying with different backend.
+2016-07-26 08:30:01: (critical) proxy-plugin.c.1773: Cannot connect, all backends are down.
+2016-11-01 10:43:49: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-11-01 10:49:51: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-11-01 10:55:02: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-11-01 10:57:21: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-11-01 10:59:21: (message) Initiating shutdown, requested from signal handler
+2016-11-01 10:59:21: (message) shutting down normally, exit code is: 0
+2016-11-01 10:59:36: (critical) plugin proxy 0.8.3 started
+2016-11-01 10:59:36: (message) proxy listening on port jenkins:5052
+2016-11-01 10:59:36: (message) added read/write backend: qa-current-db01:13306
+2016-11-01 10:59:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-11-01 11:04:27: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-11-04 14:37:42: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-11-04 14:39:51: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-11-04 14:39:51: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:355: attempt to index global 'res3' (a nil value)
+2016-11-04 14:39:51: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2016-11-04 15:47:18: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-11-08 10:40:58: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 7
+2016-11-09 17:39:56: (message) Initiating shutdown, requested from signal handler
+2016-11-09 17:39:57: (message) shutting down normally, exit code is: 0
+2016-11-10 08:50:18: (critical) plugin proxy 0.8.3 started
+2016-11-10 08:50:18: (message) proxy listening on port jenkins:5052
+2016-11-10 08:50:18: (message) added read/write backend: qa-current-db01:13306
+2016-11-10 08:54:09: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-11-10 08:58:02: (message) Initiating shutdown, requested from signal handler
+2016-11-10 08:58:02: (message) shutting down normally, exit code is: 0
+2016-11-10 08:58:12: (critical) plugin proxy 0.8.3 started
+2016-11-10 08:58:12: (message) proxy listening on port jenkins:5052
+2016-11-10 08:58:12: (message) added read/write backend: qa-current-db01:13306
+2016-11-10 09:17:12: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-11-10 09:20:27: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2016-11-22 17:03:45: (message) Initiating shutdown, requested from signal handler
+2016-11-22 17:03:45: (message) shutting down normally, exit code is: 0
+2016-11-23 10:59:22: (critical) plugin proxy 0.8.3 started
+2016-11-23 10:59:22: (message) proxy listening on port jenkins:5052
+2016-11-23 10:59:22: (message) added read/write backend: qa-current-db01:13306
+2016-12-07 10:45:25: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2017-02-02 13:57:12: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 7
+2017-06-26 11:46:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2017-06-26 11:46:37: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:358: attempt to index global 'res3' (a nil value)
+2017-06-26 11:46:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2017-06-26 11:47:06: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2017-06-26 12:47:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2017-06-26 12:49:53: (critical) last message repeated 1 times
+2017-06-26 12:49:53: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2017-06-26 13:04:22: (critical) last message repeated 1 times
+2017-06-26 13:04:22: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2017-06-26 13:11:04: (message) last message repeated 1 times
+2017-06-26 13:11:04: (message) Initiating shutdown, requested from signal handler
+2017-06-26 13:11:04: (message) shutting down normally, exit code is: 0
+2017-06-26 13:11:56: (critical) plugin proxy 0.8.3 started
+2017-06-26 13:11:56: (message) proxy listening on port jenkins:5052
+2017-06-26 13:11:56: (message) added read/write backend: qa-current-db01:13306
+2017-06-26 13:12:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4

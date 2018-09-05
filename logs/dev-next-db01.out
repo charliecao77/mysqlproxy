@@ -1,0 +1,1186 @@
+2013-06-26 10:16:28: (critical) plugin proxy 0.8.3 started
+2013-06-26 10:16:28: (message) proxy listening on port jenkins:4041
+2013-06-26 10:16:28: (message) added read/write backend: dev-next-db01:3306
+2013-06-26 10:22:25: (message) Initiating shutdown, requested from signal handler
+2013-06-26 10:22:25: (message) shutting down normally, exit code is: 0
+2013-06-26 10:25:56: (critical) plugin proxy 0.8.3 started
+2013-06-26 10:25:56: (critical) network-socket.c:451: bind(10.253.253.61:4041) failed: Address already in use (98)
+2013-06-26 10:25:56: (critical) chassis-mainloop.c:267: applying config of plugin proxy failed
+2013-06-26 10:25:56: (critical) mysql-proxy-cli.c:597: Failure from chassis_mainloop. Shutting down.
+2013-06-26 10:25:56: (message) Initiating shutdown, requested from mysql-proxy-cli.c:598
+2013-06-26 10:25:56: (message) shutting down normally, exit code is: 1
+2013-07-11 11:38:50: (critical) plugin proxy 0.8.3 started
+2013-07-11 11:38:50: (message) proxy listening on port jenkins:4041
+2013-07-11 11:38:50: (message) added read/write backend: dev-next-db01:3306
+2013-07-16 15:30:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2013-07-16 15:34:05: (critical) last message repeated 1 times
+2013-07-16 15:34:05: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2013-07-16 15:35:11: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2013-07-16 15:35:11: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 7
+2013-07-29 11:40:23: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2013-07-29 11:40:23: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 7
+2013-08-02 11:01:34: (critical) plugin proxy 0.8.3 started
+2013-08-02 11:01:34: (message) proxy listening on port jenkins:4041
+2013-08-02 11:01:34: (message) added read/write backend: dev-next-db01:3306
+2018-08-08 15:40:13: (critical) plugin proxy 0.8.3 started
+2018-08-08 15:40:13: (message) proxy listening on port jenkins:4041
+2018-08-08 15:40:13: (message) added read/write backend: dev-next-db01.vfmltech.com:3306
+2018-08-08 15:48:12: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2018-08-08 15:48:12: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:301: attempt to index global 'res3' (a nil value)
+2018-08-08 15:48:12: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2018-08-08 15:48:25: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2018-08-08 15:48:25: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:301: attempt to index global 'res3' (a nil value)
+2018-08-08 15:48:25: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2018-08-08 15:51:02: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2018-08-08 15:51:02: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:301: attempt to index global 'res3' (a nil value)
+2018-08-08 15:51:02: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2018-08-08 15:56:54: (message) Initiating shutdown, requested from signal handler
+2018-08-08 15:56:55: (message) shutting down normally, exit code is: 0
+2018-08-09 09:22:25: (critical) plugin proxy 0.8.3 started
+2018-08-09 09:22:25: (message) proxy listening on port jenkins:5053
+2018-08-09 09:22:25: (message) added read/write backend: dev-next-db01.vfmltech.com:3306
+2018-08-10 10:32:58: (message) Initiating shutdown, requested from signal handler
+2018-08-10 10:32:59: (message) shutting down normally, exit code is: 0
+2018-08-10 10:34:13: (critical) plugin proxy 0.8.3 started
+2018-08-10 10:34:13: (message) proxy listening on port jenkins:5053
+2018-08-10 10:34:13: (message) added read/write backend: dev-next-db01.vfmltech.com:3306
+2018-08-10 11:44:51: (message) Initiating shutdown, requested from signal handler
+2018-08-10 11:44:52: (message) shutting down normally, exit code is: 0
+2018-08-10 11:46:19: (critical) plugin proxy 0.8.3 started
+2018-08-10 11:46:19: (message) proxy listening on port jenkins:5053
+2018-08-10 11:46:19: (message) added read/write backend: dev-next-db01.vfmltech.com:3306
+2018-08-10 13:46:33: (critical) proxy-plugin.c:1184: proxy.queue:append() or :prepend() used without 'return proxy.PROXY_SEND_QUERY'. Discarding 2 elements from the queue.
+2018-08-10 13:47:51: (critical) proxy-plugin.c:1184: proxy.queue:append() or :prepend() used without 'return proxy.PROXY_SEND_QUERY'. Discarding 2 elements from the queue.
+2018-08-10 13:52:05: (critical) proxy-plugin.c:1184: proxy.queue:append() or :prepend() used without 'return proxy.PROXY_SEND_QUERY'. Discarding 2 elements from the queue.
+2018-08-10 13:52:08: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-10 13:52:08: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:78: unexpected symbol near '#'
+2018-08-10 13:52:08: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-10 13:52:08: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:78: unexpected symbol near '#'
+2018-08-10 13:52:16: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-10 13:52:16: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:78: unexpected symbol near '#'
+2018-08-10 13:52:16: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-10 13:52:16: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:78: unexpected symbol near '#'
+2018-08-10 13:52:26: (critical) proxy-plugin.c:1184: proxy.queue:append() or :prepend() used without 'return proxy.PROXY_SEND_QUERY'. Discarding 2 elements from the queue.
+2018-08-10 13:54:32: (critical) proxy-plugin.c:1184: proxy.queue:append() or :prepend() used without 'return proxy.PROXY_SEND_QUERY'. Discarding 2 elements from the queue.
+2018-08-10 13:55:06: (critical) last message repeated 1 times
+2018-08-10 13:55:06: (critical) proxy-plugin.c:1184: proxy.queue:append() or :prepend() used without 'return proxy.PROXY_SEND_QUERY'. Discarding 2 elements from the queue.
+2018-08-10 13:55:40: (critical) last message repeated 1 times
+2018-08-10 13:55:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 2
+2018-08-10 13:56:18: (critical) last message repeated 1 times
+2018-08-10 13:56:18: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 2
+2018-08-10 13:57:24: (critical) last message repeated 1 times
+2018-08-10 13:57:24: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 2
+2018-08-10 13:58:27: (critical) proxy-plugin.c:1400: proxy.queries:append() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua can only have one injected query without { resultset_is_needed = true } set. We close the client connection now.
+2018-08-10 13:59:21: (critical) proxy-plugin.c:1400: proxy.queries:append() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua can only have one injected query without { resultset_is_needed = true } set. We close the client connection now.
+2018-08-10 13:59:53: (critical) proxy-plugin.c:1400: proxy.queries:append() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua can only have one injected query without { resultset_is_needed = true } set. We close the client connection now.
+2018-08-10 14:01:05: (critical) last message repeated 1 times
+2018-08-10 14:01:05: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 2
+2018-08-10 14:02:43: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 2
+2018-08-15 09:54:50: (message) Initiating shutdown, requested from signal handler
+2018-08-15 09:54:50: (message) shutting down normally, exit code is: 0
+2018-08-15 09:56:01: (critical) plugin proxy 0.8.3 started
+2018-08-15 09:56:01: (message) proxy listening on port jenkins:5053
+2018-08-15 09:56:01: (message) added read/write backend: dev-next-db01.vfmltech.com:3306
+2018-08-21 23:16:33: (critical) proxy-plugin.c:1559: (connect_server) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:11: attempt to index field '?' (a nil value)
+2018-08-21 23:16:33: (critical) proxy-plugin.c.1773: Cannot connect, all backends are down.
+2018-08-21 23:37:04: (message) Initiating shutdown, requested from signal handler
+2018-08-21 23:37:05: (message) shutting down normally, exit code is: 0
+2018-08-21 23:37:12: (critical) plugin proxy 0.8.3 started
+2018-08-21 23:37:12: (message) proxy listening on port jenkins:5053
+2018-08-21 23:37:12: (message) added read/write backend: dev-next-db01.vfmltech.com:3306
+2018-08-22 00:00:45: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 00:00:45: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:24: malformed number near '1000..'
+2018-08-22 00:00:45: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 00:00:45: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:24: malformed number near '1000..'
+2018-08-22 00:01:15: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 00:01:15: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:24: unexpected symbol near ')'
+2018-08-22 00:01:15: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 00:01:15: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:24: unexpected symbol near ')'
+2018-08-22 09:36:04: (message) Initiating shutdown, requested from signal handler
+2018-08-22 09:36:04: (message) shutting down normally, exit code is: 0
+2018-08-22 09:36:10: (critical) plugin proxy 0.8.3 started
+2018-08-22 09:36:10: (message) proxy listening on port jenkins:5053
+2018-08-22 09:36:10: (message) added read/write backend: dev-next-db01.vfmltech.com:3306
+2018-08-22 09:59:22: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:15: attempt to concatenate global 'proxy' (a table value)
+2018-08-22 10:00:05: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:15: attempt to concatenate global 'proxy' (a table value)
+2018-08-22 10:00:06: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:15: attempt to concatenate field 'connection' (a userdata value)
+2018-08-22 10:55:01: (critical) last message repeated 1 times
+2018-08-22 10:55:01: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:61: attempt to concatenate field 'resultset' (a userdata value)
+2018-08-22 10:56:04: (critical) last message repeated 1 times
+2018-08-22 10:56:04: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:61: attempt to concatenate field 'resultset' (a userdata value)
+2018-08-22 10:58:03: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:61: attempt to concatenate field 'resultset' (a userdata value)
+2018-08-22 10:58:05: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:61: .resultset.rows isn't available if 'resultset_is_needed ~= true'
+2018-08-22 11:00:03: (critical) last message repeated 2 times
+2018-08-22 11:00:03: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:61: .resultset.rows isn't available if 'resultset_is_needed ~= true'
+2018-08-22 11:29:47: (critical) last message repeated 1 times
+2018-08-22 11:29:47: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:62: attempt to concatenate field '?' (a nil value)
+2018-08-22 11:31:50: (critical) last message repeated 2 times
+2018-08-22 11:31:50: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:62: attempt to concatenate field '?' (a nil value)
+2018-08-22 11:36:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 11:36:48: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 11:36:53: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 11:36:53: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 11:39:37: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 11:39:37: (critical) last message repeated 1 times
+2018-08-22 11:39:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 11:39:37: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 11:39:37: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 11:39:38: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 11:39:38: (critical) last message repeated 1 times
+2018-08-22 11:39:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 11:39:38: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 11:39:38: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 11:41:03: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 11:41:03: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 11:41:03: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 11:41:05: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 11:41:05: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 11:41:05: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 11:42:18: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 11:43:08: (message) last message repeated 1 times
+2018-08-22 11:43:08: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 11:45:35: (critical) last message repeated 1 times
+2018-08-22 11:45:35: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:65: attempt to call a nil value
+2018-08-22 11:47:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 2
+2018-08-22 12:38:20: (critical) last message repeated 1 times
+2018-08-22 12:38:20: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 2
+2018-08-22 12:44:11: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 12:44:11: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:71: 'end' expected (to close 'if' at line 64) near 'print'
+2018-08-22 12:44:11: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 12:44:11: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:71: 'end' expected (to close 'if' at line 64) near 'print'
+2018-08-22 12:45:11: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 12:45:11: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:71: 'end' expected (to close 'if' at line 64) near 'print'
+2018-08-22 12:45:11: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 12:45:11: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:71: 'end' expected (to close 'if' at line 64) near 'print'
+2018-08-22 12:45:30: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 12:45:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 12:45:30: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 12:45:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 12:45:44: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 12:45:44: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 12:45:44: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 12:45:44: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 12:51:45: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 12:51:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 12:51:45: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 12:51:45: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 12:51:46: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 12:51:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 12:51:46: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 12:51:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 12:52:40: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 12:52:40: (critical) last message repeated 1 times
+2018-08-22 12:52:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 12:52:40: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 12:52:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 12:52:41: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 12:52:41: (critical) last message repeated 1 times
+2018-08-22 12:52:41: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 12:52:41: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 12:52:41: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 12:53:03: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 12:53:37: (message) last message repeated 3 times
+2018-08-22 12:53:37: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 12:57:49: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 12:57:49: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:69: 'end' expected (to close 'if' at line 64) near 'print'
+2018-08-22 12:57:49: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 12:57:49: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:69: 'end' expected (to close 'if' at line 64) near 'print'
+2018-08-22 12:57:50: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 12:57:50: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:69: 'end' expected (to close 'if' at line 64) near 'print'
+2018-08-22 12:57:50: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 12:57:50: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:69: 'end' expected (to close 'if' at line 64) near 'print'
+2018-08-22 13:08:26: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 13:08:26: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:68: unexpected symbol near '#'
+2018-08-22 13:08:26: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 13:08:26: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:68: unexpected symbol near '#'
+2018-08-22 13:08:27: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 13:08:27: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:68: unexpected symbol near '#'
+2018-08-22 13:08:27: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 13:08:27: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:68: unexpected symbol near '#'
+2018-08-22 13:08:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 13:08:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 13:08:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 13:08:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 13:10:21: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 13:10:21: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:71: '<eof>' expected near 'end'
+2018-08-22 13:10:21: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 13:10:21: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:71: '<eof>' expected near 'end'
+2018-08-22 13:11:52: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 13:11:52: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:71: '<eof>' expected near 'end'
+2018-08-22 13:11:52: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 13:11:52: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:71: '<eof>' expected near 'end'
+2018-08-22 13:12:03: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 13:12:03: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:71: '<eof>' expected near 'end'
+2018-08-22 13:12:03: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 13:12:03: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:71: '<eof>' expected near 'end'
+2018-08-22 13:13:14: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 13:13:14: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 13:13:16: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 13:13:16: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 13:14:19: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 13:14:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 13:14:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 13:14:20: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 13:14:20: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 13:14:20: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 13:14:40: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 13:14:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-08-22 13:14:40: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 2
+2018-08-22 13:14:42: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 13:15:42: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-22 13:30:57: (critical) plugin proxy 0.8.3 started
+2018-08-22 13:30:57: (message) proxy listening on port jenkins:5053
+2018-08-22 13:30:57: (message) added read/write backend: dev-next-db01.vfmltech.com:3306
+2018-08-22 13:31:06: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:72: 'end' expected (to close 'if' at line 64) near 'print'
+2018-08-22 13:33:20: (warning) last message repeated 1 times
+2018-08-22 13:33:20: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 13:33:20: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:72: 'end' expected (to close 'if' at line 64) near 'print'
+2018-08-22 13:33:20: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-22 13:33:20: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:72: 'end' expected (to close 'if' at line 64) near 'print'
+2018-08-27 15:19:38: (message) Initiating shutdown, requested from signal handler
+2018-08-27 15:19:39: (message) shutting down normally, exit code is: 0
+2018-08-27 15:19:59: (critical) plugin proxy 0.8.3 started
+2018-08-27 15:19:59: (message) proxy listening on port jenkins:5053
+2018-08-27 15:19:59: (message) added read/write backend: dev-next-db01.vfmltech.com:3306
+2018-08-28 10:15:58: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:66: attempt to index global 'packet1' (a nil value)
+2018-08-28 10:15:58: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 10:15:58: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:66: attempt to index global 'packet1' (a nil value)
+2018-08-28 10:15:58: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 10:15:58: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:66: attempt to index global 'packet1' (a nil value)
+2018-08-28 10:15:58: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 10:15:58: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:66: attempt to index global 'packet1' (a nil value)
+2018-08-28 10:15:58: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:29:33: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:66: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:29:33: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:30:07: (message) Initiating shutdown, requested from signal handler
+2018-08-28 11:30:07: (message) shutting down normally, exit code is: 0
+2018-08-28 11:30:17: (critical) plugin proxy 0.8.3 started
+2018-08-28 11:30:17: (message) proxy listening on port jenkins:5053
+2018-08-28 11:30:17: (message) added read/write backend: dev-next-db01.vfmltech.com:3306
+2018-08-28 11:30:24: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:66: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:30:24: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:30:38: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:66: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:30:38: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:30:38: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:66: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:30:38: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:30:38: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:66: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:30:38: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:30:51: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:66: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:30:51: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:43:32: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:67: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:43:32: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:43:57: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:67: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:43:57: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:44:22: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:67: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:44:22: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:44:45: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:67: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:44:45: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:45:10: (message) Initiating shutdown, requested from signal handler
+2018-08-28 11:45:11: (message) shutting down normally, exit code is: 0
+2018-08-28 11:45:15: (critical) plugin proxy 0.8.3 started
+2018-08-28 11:45:15: (message) proxy listening on port jenkins:5053
+2018-08-28 11:45:15: (message) added read/write backend: dev-next-db01.vfmltech.com:3306
+2018-08-28 11:45:25: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:67: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:45:25: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:45:39: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:67: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:45:39: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:47:36: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:68: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:47:36: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:47:40: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:68: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:47:40: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:53:34: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 11:53:34: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:16: ')' expected near 'packet'
+2018-08-28 11:53:34: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 11:53:34: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:16: ')' expected near 'packet'
+2018-08-28 11:53:51: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:68: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:53:51: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:58:45: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:73: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:58:45: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 11:59:48: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:75: attempt to index global 'packet1' (a nil value)
+2018-08-28 11:59:48: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 12:51:25: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:83: attempt to index global 'packet1' (a nil value)
+2018-08-28 12:51:25: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 13:01:27: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:85: attempt to index global 'packet1' (a nil value)
+2018-08-28 13:01:27: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 13:01:50: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:85: attempt to index global 'packet1' (a nil value)
+2018-08-28 13:01:50: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 13:22:19: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 13:22:19: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:16: '<name>' expected near ':'
+2018-08-28 13:22:19: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 13:22:19: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:16: '<name>' expected near ':'
+2018-08-28 13:22:44: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 13:22:44: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:16: '<name>' expected near ':'
+2018-08-28 13:22:44: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 13:22:44: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:16: '<name>' expected near ':'
+2018-08-28 13:23:38: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 13:23:38: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:16: '<name>' expected near ':'
+2018-08-28 13:23:38: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 13:23:38: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:16: '<name>' expected near ':'
+2018-08-28 13:23:55: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 13:23:55: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:16: '<name>' expected near ':'
+2018-08-28 13:23:55: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 13:23:55: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:16: '<name>' expected near ':'
+2018-08-28 13:25:00: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 13:25:00: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:16: '<name>' expected near ':'
+2018-08-28 13:25:00: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 13:25:00: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:16: '<name>' expected near ':'
+2018-08-28 13:25:38: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:90: attempt to index global 'packet1' (a nil value)
+2018-08-28 13:25:38: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 13:26:07: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:90: attempt to index global 'packet1' (a nil value)
+2018-08-28 13:26:07: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 13:26:40: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:20: bad argument #2 to 'sub' (number expected, got nil)
+2018-08-28 13:27:33: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:90: attempt to index global 'packet1' (a nil value)
+2018-08-28 13:27:33: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 13:34:11: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:20: bad argument #2 to 'sub' (number expected, got nil)
+2018-08-28 13:34:13: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:25: attempt to call field 'strsub' (a nil value)
+2018-08-28 13:34:58: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:20: bad argument #2 to 'sub' (number expected, got nil)
+2018-08-28 13:35:02: (critical) last message repeated 1 times
+2018-08-28 13:35:02: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:89: attempt to index global 'packet1' (a nil value)
+2018-08-28 13:35:02: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 13:36:05: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:25: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-28 13:41:45: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:20: bad argument #2 to 'sub' (number expected, got nil)
+2018-08-28 13:41:54: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:94: attempt to index global 'packet1' (a nil value)
+2018-08-28 13:41:54: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 13:51:37: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:20: bad argument #2 to 'sub' (number expected, got nil)
+2018-08-28 13:51:45: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:28: attempt to call global 'pinrt' (a nil value)
+2018-08-28 14:06:06: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:20: bad argument #2 to 'sub' (number expected, got nil)
+2018-08-28 14:06:09: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:28: attempt to call global 'pinrt' (a nil value)
+2018-08-28 14:07:12: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:20: bad argument #2 to 'sub' (number expected, got nil)
+2018-08-28 14:07:13: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:28: attempt to concatenate global 'm3' (a nil value)
+2018-08-28 14:07:37: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:20: bad argument #2 to 'sub' (number expected, got nil)
+2018-08-28 14:07:38: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:28: attempt to concatenate global 'm3' (a nil value)
+2018-08-28 14:08:29: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:20: bad argument #2 to 'sub' (number expected, got nil)
+2018-08-28 14:08:29: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:107: attempt to index global 'packet1' (a nil value)
+2018-08-28 14:08:29: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 15:19:30: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:38: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-28 15:20:20: (critical) last message repeated 1 times
+2018-08-28 15:20:20: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:34: bad argument #2 to 'sub' (number expected, got nil)
+2018-08-28 15:20:21: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-28 15:40:13: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: bad argument #2 to 'sub' (number expected, got nil)
+2018-08-28 15:40:15: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:71: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-28 15:42:57: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: bad argument #2 to 'sub' (number expected, got nil)
+2018-08-28 15:42:58: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:72: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-28 15:44:28: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:72: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-28 15:44:30: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: bad argument #2 to 'sub' (number expected, got nil)
+2018-08-28 15:44:32: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:72: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-28 15:51:07: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:72: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-28 15:51:11: (warning) last message repeated 1 times
+2018-08-28 15:51:11: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 15:51:11: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:49: '=' expected near 'print'
+2018-08-28 15:51:11: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 15:51:11: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:49: '=' expected near 'print'
+2018-08-28 15:51:29: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:49: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-28 15:51:31: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:133: attempt to index global 'packet1' (a nil value)
+2018-08-28 15:51:31: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 15:52:04: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:133: attempt to index global 'packet1' (a nil value)
+2018-08-28 15:52:04: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 15:52:06: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:49: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-28 15:52:07: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:133: attempt to index global 'packet1' (a nil value)
+2018-08-28 15:52:07: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 15:52:25: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:133: attempt to index global 'packet1' (a nil value)
+2018-08-28 15:52:25: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 15:52:50: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:133: attempt to index global 'packet1' (a nil value)
+2018-08-28 15:52:50: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 15:52:55: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:49: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-28 15:53:00: (critical) last message repeated 2 times
+2018-08-28 15:53:00: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:133: attempt to index global 'packet1' (a nil value)
+2018-08-28 15:53:01: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 15:55:09: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:133: attempt to index global 'packet1' (a nil value)
+2018-08-28 15:55:09: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 15:55:18: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:133: attempt to index global 'packet1' (a nil value)
+2018-08-28 15:55:18: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 16:25:47: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 16:25:47: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:82: '=' expected near 'table_list'
+2018-08-28 16:25:47: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 16:25:47: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:82: '=' expected near 'table_list'
+2018-08-28 16:27:40: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:50: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-28 16:27:43: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:67: attempt to concatenate a nil value
+2018-08-28 16:27:59: (critical) last message repeated 1 times
+2018-08-28 16:27:59: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:50: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-28 16:28:10: (critical) last message repeated 2 times
+2018-08-28 16:28:10: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:67: attempt to concatenate a nil value
+2018-08-28 16:28:29: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:50: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-28 16:28:34: (critical) last message repeated 1 times
+2018-08-28 16:28:34: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:146: attempt to index global 'packet1' (a nil value)
+2018-08-28 16:28:34: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 16:28:39: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:50: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-28 16:28:42: (critical) last message repeated 2 times
+2018-08-28 16:28:42: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:146: attempt to index global 'packet1' (a nil value)
+2018-08-28 16:28:42: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 16:31:38: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:50: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-28 16:31:45: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:147: attempt to index global 'packet1' (a nil value)
+2018-08-28 16:31:45: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-28 16:32:39: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 16:32:39: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:83: '=' expected near 'table_list'
+2018-08-28 16:32:39: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 16:32:39: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:83: '=' expected near 'table_list'
+2018-08-28 16:33:17: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 16:33:17: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:83: '=' expected near 'table_list'
+2018-08-28 16:33:17: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-28 16:33:17: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:83: '=' expected near 'table_list'
+2018-08-29 08:43:04: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 08:43:04: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:86: '=' expected near 'table_list'
+2018-08-29 08:43:04: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 08:43:04: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:86: '=' expected near 'table_list'
+2018-08-29 08:43:24: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 08:43:24: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:86: '=' expected near 'table_list'
+2018-08-29 08:43:24: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 08:43:24: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:86: '=' expected near 'table_list'
+2018-08-29 08:43:45: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 08:43:45: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:86: '=' expected near 'table_list'
+2018-08-29 08:43:45: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 08:43:45: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:86: '=' expected near 'table_list'
+2018-08-29 08:46:09: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:50: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 08:46:20: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:148: attempt to index global 'packet1' (a nil value)
+2018-08-29 08:46:20: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-29 08:51:17: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:50: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 08:51:49: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:67: attempt to concatenate a nil value
+2018-08-29 09:07:54: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 09:07:55: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:64: attempt to concatenate a nil value
+2018-08-29 09:08:29: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 09:08:31: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:64: attempt to concatenate a nil value
+2018-08-29 09:11:39: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 09:12:18: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 09:12:30: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 09:12:30: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:84: '=' expected near 'table_list'
+2018-08-29 09:12:30: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 09:12:30: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:84: '=' expected near 'table_list'
+2018-08-29 09:12:51: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 09:12:52: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:74: bad argument #1 to 'sub' (string expected, got nil)
+2018-08-29 09:15:39: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 09:15:40: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:74: bad argument #1 to 'sub' (string expected, got nil)
+2018-08-29 09:15:56: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 09:16:18: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:74: bad argument #1 to 'sub' (string expected, got nil)
+2018-08-29 09:18:18: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 09:18:23: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:76: bad argument #1 to 'sub' (string expected, got nil)
+2018-08-29 09:21:10: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 09:37:51: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 09:37:53: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:64: attempt to concatenate a nil value
+2018-08-29 09:40:32: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 09:40:33: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:64: attempt to concatenate a nil value
+2018-08-29 09:41:48: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:86: attempt to call global 'retrun' (a nil value)
+2018-08-29 09:42:26: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:86: attempt to call global 'retrun' (a nil value)
+2018-08-29 09:44:50: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 09:44:52: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:86: attempt to call global 'retrun' (a nil value)
+2018-08-29 09:46:01: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 09:46:03: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:81: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-29 09:46:43: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 09:46:43: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:86: '=' expected near 'TBLIST'
+2018-08-29 09:46:43: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 09:46:43: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:86: '=' expected near 'TBLIST'
+2018-08-29 09:47:02: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 09:47:04: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:81: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-29 10:08:16: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 10:08:19: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:153: attempt to index global 'packet1' (a nil value)
+2018-08-29 10:08:19: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-29 10:09:15: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:153: attempt to index global 'packet1' (a nil value)
+2018-08-29 10:09:15: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-29 10:15:28: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 10:15:29: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:153: attempt to index global 'packet1' (a nil value)
+2018-08-29 10:15:29: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-29 10:15:38: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:153: attempt to index global 'packet1' (a nil value)
+2018-08-29 10:15:38: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-29 10:17:36: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:153: attempt to index global 'packet1' (a nil value)
+2018-08-29 10:17:36: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-29 10:25:32: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 10:25:34: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:88: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-29 14:43:30: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 14:43:30: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:81: 'end' expected (to close 'while' at line 75) near '='
+2018-08-29 14:43:30: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 14:43:30: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:81: 'end' expected (to close 'while' at line 75) near '='
+2018-08-29 14:43:42: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 14:43:42: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:81: 'end' expected (to close 'while' at line 75) near 'TBLIST'
+2018-08-29 14:43:42: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 14:43:42: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:81: 'end' expected (to close 'while' at line 75) near 'TBLIST'
+2018-08-29 14:45:21: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 14:45:21: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:80: ')' expected (to close '(' at line 79) near 'break'
+2018-08-29 14:45:21: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 14:45:21: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:80: ')' expected (to close '(' at line 79) near 'break'
+2018-08-29 14:45:47: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 14:45:48: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:92: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-29 14:46:15: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:47: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 14:46:17: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:92: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-29 15:08:45: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 15:11:08: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 15:11:10: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:105: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-29 15:11:42: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 15:11:45: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:105: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-29 15:16:03: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 15:16:05: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:95: attempt to perform arithmetic on global 'n' (a nil value)
+2018-08-29 15:20:09: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 15:20:09: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:88: unexpected symbol near '`'
+2018-08-29 15:20:09: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 15:20:09: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:88: unexpected symbol near '`'
+2018-08-29 15:20:10: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 15:20:10: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:88: unexpected symbol near '`'
+2018-08-29 15:20:10: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 15:20:10: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:88: unexpected symbol near '`'
+2018-08-29 15:21:48: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 15:21:48: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:88: unexpected symbol near '`'
+2018-08-29 15:21:48: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-29 15:21:48: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:88: unexpected symbol near '`'
+2018-08-29 15:22:29: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 15:22:32: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:97: attempt to perform arithmetic on global 'n' (a nil value)
+2018-08-29 15:23:22: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 15:23:23: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:97: attempt to perform arithmetic on global 'n' (a nil value)
+2018-08-29 15:26:40: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 15:26:42: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:92: attempt to perform arithmetic on global 'n' (a nil value)
+2018-08-29 15:27:31: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 15:27:33: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:92: attempt to perform arithmetic on global 'n' (a nil value)
+2018-08-29 15:29:09: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 15:29:10: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:92: attempt to perform arithmetic on global 'n' (a nil value)
+2018-08-29 15:29:33: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 15:29:35: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:92: attempt to perform arithmetic on global 'n' (a nil value)
+2018-08-29 15:31:45: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 15:31:47: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:92: attempt to perform arithmetic on global 'n' (a nil value)
+2018-08-29 15:33:14: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 15:33:15: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:94: attempt to perform arithmetic on global 'n' (a nil value)
+2018-08-29 15:34:23: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-29 15:34:25: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:94: attempt to perform arithmetic on global 'n' (a nil value)
+2018-08-30 13:12:46: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 13:12:48: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:94: attempt to perform arithmetic on global 'n' (a nil value)
+2018-08-30 13:14:22: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 13:14:24: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:96: attempt to perform arithmetic on global 'n' (a nil value)
+2018-08-30 13:29:23: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 13:29:24: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:155: attempt to index global 'packet1' (a nil value)
+2018-08-30 13:29:24: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 13:37:41: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-30 13:37:41: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:102: '(' expected near 'function'
+2018-08-30 13:37:41: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-30 13:37:41: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:102: '(' expected near 'function'
+2018-08-30 13:37:43: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-30 13:37:43: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:102: '(' expected near 'function'
+2018-08-30 13:37:43: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-30 13:37:43: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:102: '(' expected near 'function'
+2018-08-30 13:37:57: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-30 13:37:57: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:101: '(' expected near 'end'
+2018-08-30 13:37:57: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-30 13:37:57: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:101: '(' expected near 'end'
+2018-08-30 13:38:17: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 13:38:19: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:159: attempt to index global 'packet1' (a nil value)
+2018-08-30 13:38:19: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 13:45:06: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 13:45:44: (critical) last message repeated 2 times
+2018-08-30 13:45:44: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:159: attempt to index global 'packet1' (a nil value)
+2018-08-30 13:45:44: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 13:49:46: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 13:49:46: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:155: attempt to index global 'packet1' (a nil value)
+2018-08-30 13:49:46: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 14:00:38: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:00:51: (critical) last message repeated 3 times
+2018-08-30 14:00:51: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:158: attempt to index global 'packet1' (a nil value)
+2018-08-30 14:00:51: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 14:04:56: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:04:56: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:158: attempt to index global 'packet1' (a nil value)
+2018-08-30 14:04:56: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 14:08:12: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:08:14: (critical) last message repeated 3 times
+2018-08-30 14:08:14: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:162: attempt to index global 'packet1' (a nil value)
+2018-08-30 14:08:14: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 14:11:30: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:11:40: (critical) last message repeated 3 times
+2018-08-30 14:11:40: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:165: attempt to index global 'packet1' (a nil value)
+2018-08-30 14:11:40: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 14:12:05: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:12:21: (critical) last message repeated 5 times
+2018-08-30 14:12:21: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:165: attempt to index global 'packet1' (a nil value)
+2018-08-30 14:12:21: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 14:12:40: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:13:16: (critical) last message repeated 5 times
+2018-08-30 14:13:16: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:88: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-30 14:14:52: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:88: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-30 14:15:38: (critical) last message repeated 1 times
+2018-08-30 14:15:38: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:88: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-30 14:17:40: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:17:49: (critical) last message repeated 3 times
+2018-08-30 14:17:49: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:88: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-30 14:18:09: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:18:09: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:88: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-30 14:19:10: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:19:13: (critical) last message repeated 3 times
+2018-08-30 14:19:13: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:90: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-30 14:20:11: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:20:13: (critical) last message repeated 3 times
+2018-08-30 14:20:13: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:166: attempt to index global 'packet1' (a nil value)
+2018-08-30 14:20:13: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 14:26:32: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:26:36: (critical) last message repeated 3 times
+2018-08-30 14:26:36: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:170: attempt to index global 'packet1' (a nil value)
+2018-08-30 14:26:36: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 14:28:07: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:28:09: (critical) last message repeated 3 times
+2018-08-30 14:28:09: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:173: attempt to index global 'packet1' (a nil value)
+2018-08-30 14:28:09: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 14:30:47: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:30:47: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:173: attempt to index global 'packet1' (a nil value)
+2018-08-30 14:30:47: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 14:30:49: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:30:49: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:173: attempt to index global 'packet1' (a nil value)
+2018-08-30 14:30:49: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 14:30:51: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:30:54: (critical) last message repeated 3 times
+2018-08-30 14:30:54: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:174: attempt to index global 'packet1' (a nil value)
+2018-08-30 14:30:54: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 14:45:18: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:45:18: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:174: attempt to index global 'packet1' (a nil value)
+2018-08-30 14:45:18: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 14:45:19: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:58: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 14:45:30: (critical) last message repeated 3 times
+2018-08-30 14:45:30: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 14:45:30: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:40:56: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:41:00: (critical) last message repeated 3 times
+2018-08-30 15:41:00: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:173: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:41:00: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:41:18: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:41:31: (critical) last message repeated 2 times
+2018-08-30 15:41:31: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:173: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:41:31: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:42:55: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:42:59: (critical) last message repeated 2 times
+2018-08-30 15:42:59: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:174: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:42:59: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:44:11: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:44:15: (critical) last message repeated 2 times
+2018-08-30 15:44:15: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:44:15: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:48:36: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:48:38: (critical) last message repeated 2 times
+2018-08-30 15:48:38: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:172: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:48:38: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:48:50: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:172: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:48:50: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:49:01: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:49:07: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:172: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:49:07: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:51:52: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:51:57: (critical) last message repeated 2 times
+2018-08-30 15:51:57: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:98: attempt to perform arithmetic on global 'm' (a nil value)
+2018-08-30 15:53:01: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:53:03: (critical) last message repeated 2 times
+2018-08-30 15:53:03: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:172: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:53:03: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:54:02: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:54:10: (critical) last message repeated 5 times
+2018-08-30 15:54:10: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:174: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:54:10: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:54:38: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:174: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:54:38: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:54:39: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:54:42: (critical) last message repeated 2 times
+2018-08-30 15:54:42: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:174: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:54:42: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:55:12: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:55:14: (critical) last message repeated 2 times
+2018-08-30 15:55:14: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:55:15: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:55:49: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:55:51: (critical) last message repeated 2 times
+2018-08-30 15:55:51: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:55:51: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:56:39: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:56:41: (critical) last message repeated 2 times
+2018-08-30 15:56:41: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:56:41: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:57:16: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:57:19: (critical) last message repeated 2 times
+2018-08-30 15:57:19: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:57:19: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:57:30: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:57:30: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:57:38: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:57:38: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:57:46: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:57:46: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:58:44: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 15:58:46: (critical) last message repeated 2 times
+2018-08-30 15:58:46: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:58:46: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 15:59:59: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 15:59:59: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:00:28: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 16:00:30: (critical) last message repeated 2 times
+2018-08-30 16:00:30: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:00:30: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:02:25: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 16:02:29: (critical) last message repeated 2 times
+2018-08-30 16:02:29: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:02:29: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:02:53: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 16:02:55: (critical) last message repeated 2 times
+2018-08-30 16:02:55: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:02:55: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:03:02: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:03:02: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:03:26: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 16:03:28: (critical) last message repeated 2 times
+2018-08-30 16:03:28: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:173: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:03:28: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:04:39: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:57: attempt to perform arithmetic on global 'j' (a nil value)
+2018-08-30 16:04:41: (critical) last message repeated 2 times
+2018-08-30 16:04:41: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:172: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:04:41: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:05:36: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:173: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:05:36: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:05:36: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:173: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:05:36: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:05:37: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:173: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:05:37: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:05:39: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:173: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:05:39: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:14:09: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:177: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:14:09: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:14:09: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:177: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:14:09: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:14:10: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:177: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:14:10: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:14:13: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:177: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:14:13: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:14:13: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:177: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:14:13: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:14:13: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:177: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:14:13: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:14:45: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:177: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:14:45: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:15:10: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:177: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:15:10: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:16:30: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:177: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:16:30: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-30 16:17:52: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:177: attempt to index global 'packet1' (a nil value)
+2018-08-30 16:17:52: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:31:40: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:31:40: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:31:40: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:31:40: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:31:41: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:31:41: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:31:44: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:31:44: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:31:55: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:31:55: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:31:55: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:31:55: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:31:55: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:31:55: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:31:59: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:31:59: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:32:15: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:32:15: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:32:27: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:32:27: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:32:27: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:32:27: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:32:27: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:32:27: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:32:31: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:32:31: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:32:37: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:32:37: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:32:48: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:176: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:32:48: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:48:09: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:48:09: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:49:44: (message) Initiating shutdown, requested from signal handler
+2018-08-31 08:49:45: (message) shutting down normally, exit code is: 0
+2018-08-31 08:49:52: (critical) plugin proxy 0.8.3 started
+2018-08-31 08:49:52: (message) proxy listening on port jenkins:5053
+2018-08-31 08:49:52: (message) added read/write backend: dev-next-db01.vfmltech.com:3306
+2018-08-31 08:50:05: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:50:05: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 08:53:19: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:175: attempt to index global 'packet1' (a nil value)
+2018-08-31 08:53:19: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 09:30:10: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:167: attempt to index global 'packet1' (a nil value)
+2018-08-31 09:30:10: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 09:30:15: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:167: attempt to index global 'packet1' (a nil value)
+2018-08-31 09:30:15: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 09:30:15: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:167: attempt to index global 'packet1' (a nil value)
+2018-08-31 09:30:15: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 09:30:15: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:167: attempt to index global 'packet1' (a nil value)
+2018-08-31 09:30:15: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 09:30:27: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:167: attempt to index global 'packet1' (a nil value)
+2018-08-31 09:30:27: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 09:32:03: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:136: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 09:32:14: (critical) last message repeated 3 times
+2018-08-31 09:32:14: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:167: attempt to index global 'packet1' (a nil value)
+2018-08-31 09:32:14: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 09:32:27: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:167: attempt to index global 'packet1' (a nil value)
+2018-08-31 09:32:27: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 09:57:06: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:137: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 09:57:16: (critical) last message repeated 3 times
+2018-08-31 09:57:16: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:171: attempt to index global 'packet1' (a nil value)
+2018-08-31 09:57:16: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 10:05:30: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:137: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 10:06:02: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:172: attempt to index global 'packet1' (a nil value)
+2018-08-31 10:06:02: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 10:15:02: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:139: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 10:15:24: (critical) last message repeated 1 times
+2018-08-31 10:15:24: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:174: attempt to index global 'packet1' (a nil value)
+2018-08-31 10:15:24: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 10:17:07: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:174: attempt to index global 'packet1' (a nil value)
+2018-08-31 10:17:07: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 11:03:06: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:139: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 11:03:10: (critical) last message repeated 1 times
+2018-08-31 11:03:10: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:174: attempt to index global 'packet1' (a nil value)
+2018-08-31 11:03:10: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 12:39:49: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-31 12:39:49: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:188: unexpected symbol near '',table_schema,''
+2018-08-31 12:39:49: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-31 12:39:49: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:188: unexpected symbol near '',table_schema,''
+2018-08-31 12:40:41: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-31 12:40:41: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:188: unexpected symbol near '',table_schema,''
+2018-08-31 12:40:41: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-31 12:40:41: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:188: unexpected symbol near '',table_schema,''
+2018-08-31 12:41:21: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-31 12:41:21: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:188: unexpected symbol near '',table_schema,table_name,''
+2018-08-31 12:41:21: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-31 12:41:21: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:188: unexpected symbol near '',table_schema,table_name,''
+2018-08-31 12:45:04: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:152: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 12:45:14: (critical) last message repeated 1 times
+2018-08-31 12:45:14: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to index global 'packet1' (a nil value)
+2018-08-31 12:45:14: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 12:46:27: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to index global 'packet1' (a nil value)
+2018-08-31 12:46:27: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 13:08:39: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-31 13:08:39: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:193: 'end' expected (to close 'if' at line 168) near 'if'
+2018-08-31 13:08:39: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-31 13:08:39: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:193: 'end' expected (to close 'if' at line 168) near 'if'
+2018-08-31 13:11:13: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:181: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 13:11:18: (critical) last message repeated 1 times
+2018-08-31 13:11:18: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:226: attempt to index global 'packet1' (a nil value)
+2018-08-31 13:11:18: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 13:11:49: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:181: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 13:12:28: (critical) last message repeated 1 times
+2018-08-31 13:12:28: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:226: attempt to index global 'packet1' (a nil value)
+2018-08-31 13:12:28: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 13:17:10: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:226: attempt to index global 'packet1' (a nil value)
+2018-08-31 13:17:10: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 13:30:02: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:476: attempt to compare number with table
+2018-08-31 13:30:46: (critical) last message repeated 6 times
+2018-08-31 13:30:46: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:476: attempt to compare number with table
+2018-08-31 13:31:23: (critical) last message repeated 2 times
+2018-08-31 13:31:23: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:476: attempt to compare number with table
+2018-08-31 13:32:12: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:199: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 13:32:22: (critical) last message repeated 1 times
+2018-08-31 13:32:22: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:248: attempt to index global 'packet1' (a nil value)
+2018-08-31 13:32:22: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 13:32:42: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:248: attempt to index global 'packet1' (a nil value)
+2018-08-31 13:32:42: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 13:33:01: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:248: attempt to index global 'packet1' (a nil value)
+2018-08-31 13:33:01: (critical) proxy-plugin.c:321: read_query_result() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua tries to modify the resultset, but hasn't asked to buffer it in proxy.query:append(..., { resultset_is_needed = true }). We ignore the change to the result-set.
+2018-08-31 13:52:45: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:199: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 13:52:51: (message) last message repeated 1 times
+2018-08-31 13:52:51: (message) network-mysqld-packet.c:713: COM_(0x73) is not handled
+2018-08-31 14:02:06: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:423: attempt to compare number with table
+2018-08-31 14:02:51: (critical) last message repeated 3 times
+2018-08-31 14:02:51: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:423: attempt to compare number with table
+2018-08-31 14:03:25: (critical) last message repeated 3 times
+2018-08-31 14:03:25: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:423: attempt to compare number with table
+2018-08-31 14:08:00: (critical) last message repeated 3 times
+2018-08-31 14:08:00: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:08:07: (critical) last message repeated 1 times
+2018-08-31 14:08:07: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:424: attempt to compare number with table
+2018-08-31 14:09:28: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:09:35: (critical) last message repeated 1 times
+2018-08-31 14:09:35: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:424: attempt to compare number with table
+2018-08-31 14:10:40: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:10:43: (message) last message repeated 1 times
+2018-08-31 14:10:43: (message) network-mysqld-packet.c:713: COM_(0x73) is not handled
+2018-08-31 14:16:40: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-31 14:16:40: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:302: '=' expected near 'end'
+2018-08-31 14:16:40: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-31 14:16:40: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:302: '=' expected near 'end'
+2018-08-31 14:21:35: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:21:39: (message) last message repeated 1 times
+2018-08-31 14:21:39: (message) network-mysqld-packet.c:713: COM_(0x73) is not handled
+2018-08-31 14:22:33: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:22:37: (message) last message repeated 1 times
+2018-08-31 14:22:37: (message) network-mysqld-packet.c:713: COM_(0x73) is not handled
+2018-08-31 14:22:42: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:22:43: (message) last message repeated 1 times
+2018-08-31 14:22:43: (message) network-mysqld-packet.c:713: COM_(0x73) is not handled
+2018-08-31 14:25:49: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:26:21: (critical) last message repeated 1 times
+2018-08-31 14:26:21: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:27:27: (critical) last message repeated 26 times
+2018-08-31 14:27:27: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:29:31: (critical) last message repeated 7 times
+2018-08-31 14:29:31: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:29:34: (message) last message repeated 1 times
+2018-08-31 14:29:34: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-31 14:32:14: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:32:17: (message) last message repeated 1 times
+2018-08-31 14:32:17: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-31 14:33:10: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-31 14:33:16: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:33:19: (message) last message repeated 1 times
+2018-08-31 14:33:19: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-31 14:35:19: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-31 14:35:33: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:35:34: (message) last message repeated 1 times
+2018-08-31 14:35:34: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-31 14:37:48: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:37:50: (message) last message repeated 1 times
+2018-08-31 14:37:50: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-31 14:39:23: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:39:24: (critical) last message repeated 1 times
+2018-08-31 14:39:24: (critical) proxy-plugin.c:1199: 'return proxy.PROXY_SEND_QUERY' used without proxy.queue:append() or :prepend(). Assuming 'nil' was returned
+2018-08-31 14:41:12: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:41:13: (message) last message repeated 1 times
+2018-08-31 14:41:13: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-31 14:43:57: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:43:58: (message) last message repeated 1 times
+2018-08-31 14:43:58: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-31 14:44:18: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:47:16: (warning) last message repeated 4 times
+2018-08-31 14:47:16: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-31 14:47:16: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:409: 'end' expected (to close 'function' at line 1) near '<eof>'
+2018-08-31 14:47:16: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-08-31 14:47:16: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:409: 'end' expected (to close 'function' at line 1) near '<eof>'
+2018-08-31 14:51:08: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:51:50: (critical) last message repeated 1 times
+2018-08-31 14:51:50: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:52:57: (critical) last message repeated 1 times
+2018-08-31 14:52:57: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:53:31: (critical) last message repeated 1 times
+2018-08-31 14:53:31: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:53:32: (message) last message repeated 1 times
+2018-08-31 14:53:32: (message) network-mysqld-lua.c.617: proxy.response.type isn't set in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua
+2018-08-31 14:54:52: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:57:13: (critical) last message repeated 1 times
+2018-08-31 14:57:13: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:57:14: (critical) last message repeated 1 times
+2018-08-31 14:57:14: (critical) proxy-plugin.c:1400: proxy.queries:append() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua can only have one injected query without { resultset_is_needed = true } set. We close the client connection now.
+2018-08-31 14:59:48: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 14:59:49: (critical) last message repeated 1 times
+2018-08-31 14:59:49: (critical) proxy-plugin.c:1400: proxy.queries:append() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua can only have one injected query without { resultset_is_needed = true } set. We close the client connection now.
+2018-08-31 15:00:07: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 15:00:08: (critical) last message repeated 1 times
+2018-08-31 15:00:08: (critical) proxy-plugin.c:1400: proxy.queries:append() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua can only have one injected query without { resultset_is_needed = true } set. We close the client connection now.
+2018-08-31 15:10:30: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 15:10:31: (critical) last message repeated 1 times
+2018-08-31 15:10:31: (critical) proxy-plugin.c:1400: proxy.queries:append() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua can only have one injected query without { resultset_is_needed = true } set. We close the client connection now.
+2018-08-31 15:10:34: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 15:10:35: (critical) last message repeated 1 times
+2018-08-31 15:10:35: (critical) proxy-plugin.c:1400: proxy.queries:append() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua can only have one injected query without { resultset_is_needed = true } set. We close the client connection now.
+2018-08-31 15:10:38: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 15:10:39: (critical) last message repeated 1 times
+2018-08-31 15:10:39: (critical) proxy-plugin.c:1400: proxy.queries:append() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua can only have one injected query without { resultset_is_needed = true } set. We close the client connection now.
+2018-08-31 15:12:56: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 15:12:57: (critical) last message repeated 1 times
+2018-08-31 15:12:57: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 2
+2018-08-31 15:15:28: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 15:15:29: (critical) last message repeated 1 times
+2018-08-31 15:15:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2018-08-31 15:16:17: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 15:16:18: (critical) last message repeated 1 times
+2018-08-31 15:16:18: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2018-08-31 15:16:22: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 15:16:22: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2018-08-31 15:16:24: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 15:16:24: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2018-08-31 15:16:26: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 15:16:26: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2018-08-31 15:16:27: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 15:16:27: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2018-08-31 15:18:14: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 15:27:25: (critical) last message repeated 1 times
+2018-08-31 15:27:25: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-08-31 15:27:35: (critical) last message repeated 1 times
+2018-08-31 15:27:35: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2018-09-04 09:12:26: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 09:42:29: (critical) last message repeated 1 times
+2018-09-04 09:42:29: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 09:42:46: (critical) last message repeated 1 times
+2018-09-04 09:42:46: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2018-09-04 09:44:20: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 09:44:23: (critical) last message repeated 1 times
+2018-09-04 09:44:23: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-09-04 09:45:04: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 09:45:07: (critical) last message repeated 1 times
+2018-09-04 09:45:07: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 2
+2018-09-04 09:45:34: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 09:45:39: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 2
+2018-09-04 09:47:53: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 09:47:56: (critical) last message repeated 1 times
+2018-09-04 09:47:56: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-09-04 09:53:19: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 09:53:23: (critical) last message repeated 1 times
+2018-09-04 09:53:23: (critical) proxy-plugin.c:1400: proxy.queries:append() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua can only have one injected query without { resultset_is_needed = true } set. We close the client connection now.
+2018-09-04 10:03:23: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-09-04 10:03:23: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:286: 'end' expected (to close 'if' at line 283) near 'print'
+2018-09-04 10:03:23: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-09-04 10:03:23: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:286: 'end' expected (to close 'if' at line 283) near 'print'
+2018-09-04 10:04:22: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 10:04:27: (critical) last message repeated 1 times
+2018-09-04 10:04:27: (critical) proxy-plugin.c:1400: proxy.queries:append() in /opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua can only have one injected query without { resultset_is_needed = true } set. We close the client connection now.
+2018-09-04 10:05:37: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:198: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 10:09:17: (critical) last message repeated 1 times
+2018-09-04 10:09:17: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 10:12:32: (critical) last message repeated 3 times
+2018-09-04 10:12:32: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 10:12:54: (critical) last message repeated 1 times
+2018-09-04 10:12:54: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-09-04 10:21:37: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 10:27:45: (critical) last message repeated 1 times
+2018-09-04 10:27:45: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:200: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 10:37:50: (critical) last message repeated 1 times
+2018-09-04 10:37:50: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:210: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 10:45:38: (warning) last message repeated 1 times
+2018-09-04 10:45:38: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-09-04 10:45:38: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:200: 'then' expected near 'proxy'
+2018-09-04 10:45:38: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-09-04 10:45:38: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:200: 'then' expected near 'proxy'
+2018-09-04 10:49:36: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-09-04 10:49:36: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:207: unexpected symbol near '%'
+2018-09-04 10:49:36: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-09-04 10:49:36: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:207: unexpected symbol near '%'
+2018-09-04 10:49:58: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:192: attempt to call global 'INFO_TIME' (a string value)
+2018-09-04 10:58:35: (critical) last message repeated 2 times
+2018-09-04 10:58:35: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:213: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 11:28:12: (critical) last message repeated 1 times
+2018-09-04 11:28:12: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:213: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 11:42:10: (critical) last message repeated 1 times
+2018-09-04 11:42:10: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 11:42:19: (critical) last message repeated 1 times
+2018-09-04 11:42:19: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-09-04 11:45:18: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-09-04 11:45:20: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-09-04 11:45:20: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:306: 'end' expected (to close 'if' at line 296) near 'proxy'
+2018-09-04 11:45:20: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-09-04 11:45:20: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:306: 'end' expected (to close 'if' at line 296) near 'proxy'
+2018-09-04 11:46:19: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-09-04 11:46:19: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:306: 'end' expected (to close 'if' at line 296) near 'proxy'
+2018-09-04 11:46:19: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-09-04 11:46:19: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:306: 'end' expected (to close 'if' at line 296) near 'proxy'
+2018-09-04 11:46:26: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-09-04 11:46:26: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:306: 'end' expected (to close 'if' at line 296) near 'proxy'
+2018-09-04 11:46:26: (warning) lua-scope.c:208: reloading '/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua' failed
+2018-09-04 11:46:26: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic...."]:306: 'end' expected (to close 'if' at line 296) near 'proxy'
+2018-09-04 11:46:41: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 11:46:53: (critical) last message repeated 1 times
+2018-09-04 11:46:53: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 1
+2018-09-04 11:47:07: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 11:57:37: (message) last message repeated 1 times
+2018-09-04 11:57:37: (message) Initiating shutdown, requested from signal handler
+2018-09-04 11:57:37: (message) shutting down normally, exit code is: 0
+2018-09-04 12:02:10: (critical) plugin proxy 0.8.3 started
+2018-09-04 12:02:10: (message) proxy listening on port jenkins:5053
+2018-09-04 12:02:10: (message) added read/write backend: dev-next-db01.vfmltech.com:3306
+2018-09-04 12:13:08: (message) Initiating shutdown, requested from signal handler
+2018-09-04 12:13:08: (message) shutting down normally, exit code is: 0
+2018-09-04 12:13:16: (critical) plugin proxy 0.8.3 started
+2018-09-04 12:13:16: (message) proxy listening on port jenkins:5053
+2018-09-04 12:13:16: (message) added read/write backend: dev-next-db01.vfmltech.com:3306
+2018-09-04 12:13:27: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 12:13:37: (critical) last message repeated 1 times
+2018-09-04 12:13:37: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:297: attempt to index global 'row' (a nil value)
+2018-09-04 12:16:28: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 12:16:34: (critical) last message repeated 1 times
+2018-09-04 12:16:34: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:306: attempt to index global 'row' (a nil value)
+2018-09-04 12:44:02: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 12:44:08: (critical) last message repeated 1 times
+2018-09-04 12:44:08: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:307: attempt to concatenate global 'sql_limited_tables' (a nil value)
+2018-09-04 12:45:48: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 12:45:52: (critical) last message repeated 1 times
+2018-09-04 12:45:52: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:314: attempt to call global 'print_debuge' (a nil value)
+2018-09-04 12:45:52: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2018-09-04 12:47:19: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 12:47:28: (critical) last message repeated 1 times
+2018-09-04 12:47:28: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:315: attempt to call global 'print_debuge' (a nil value)
+2018-09-04 12:47:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2018-09-04 12:53:24: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 12:53:31: (critical) last message repeated 1 times
+2018-09-04 12:53:31: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:315: attempt to call global 'print_debuge' (a nil value)
+2018-09-04 12:53:31: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2018-09-04 12:54:26: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 12:54:30: (critical) last message repeated 1 times
+2018-09-04 12:54:30: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:315: attempt to call global 'print_debuge' (a nil value)
+2018-09-04 12:54:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2018-09-04 12:56:05: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 12:56:08: (critical) last message repeated 1 times
+2018-09-04 12:56:08: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:315: attempt to call global 'print_debuge' (a nil value)
+2018-09-04 12:56:08: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2018-09-04 13:10:22: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 13:10:24: (critical) last message repeated 1 times
+2018-09-04 13:10:24: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:309: attempt to call global 'print_debuge' (a nil value)
+2018-09-04 13:12:32: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 13:13:43: (critical) last message repeated 1 times
+2018-09-04 13:13:43: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 13:18:00: (critical) last message repeated 1 times
+2018-09-04 13:18:00: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:214: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 13:23:19: (critical) last message repeated 1 times
+2018-09-04 13:23:19: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:220: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 13:26:06: (critical) last message repeated 1 times
+2018-09-04 13:26:06: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:220: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 13:28:05: (critical) last message repeated 1 times
+2018-09-04 13:28:05: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:220: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 13:30:07: (critical) last message repeated 1 times
+2018-09-04 13:30:07: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:220: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 13:36:13: (critical) last message repeated 1 times
+2018-09-04 13:36:13: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:220: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 13:37:11: (critical) last message repeated 1 times
+2018-09-04 13:37:11: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:220: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 14:00:15: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:211: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 14:00:19: (critical) last message repeated 1 times
+2018-09-04 14:00:19: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:293: bad argument #1 to 'ipairs' (table expected, got string)
+2018-09-04 14:01:02: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:293: bad argument #1 to 'ipairs' (table expected, got string)
+2018-09-04 14:03:28: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:211: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 14:03:33: (critical) last message repeated 1 times
+2018-09-04 14:03:33: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:293: bad argument #1 to 'ipairs' (table expected, got string)
+2018-09-04 14:19:06: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:216: attempt to concatenate global 'TABLE_LIST' (a nil value)
+2018-09-04 14:19:12: (critical) last message repeated 1 times
+2018-09-04 14:19:12: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:216: attempt to concatenate global 'TABLE_LIST' (a table value)
+2018-09-04 14:19:52: (critical) last message repeated 1 times
+2018-09-04 14:19:52: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:216: attempt to concatenate global 'TABLE_LIST' (a table value)
+2018-09-04 14:22:03: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:299: bad argument #1 to 'ipairs' (table expected, got string)
+2018-09-04 14:22:14: (critical) last message repeated 1 times
+2018-09-04 14:22:14: (critical) (read_query) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:217: attempt to concatenate global 'TABLE_LIST' (a table value)
+2018-09-04 14:23:25: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:299: bad argument #1 to 'ipairs' (table expected, got string)
+2018-09-04 14:25:31: (critical) last message repeated 3 times
+2018-09-04 14:25:31: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:299: bad argument #1 to 'ipairs' (table expected, got string)
+2018-09-04 14:57:33: (critical) last message repeated 1 times
+2018-09-04 14:57:33: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:322: attempt to call global 'split' (a nil value)
+2018-09-04 14:58:17: (critical) last message repeated 1 times
+2018-09-04 14:58:17: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:322: attempt to call global 'split' (a nil value)
+2018-09-04 15:00:48: (critical) last message repeated 2 times
+2018-09-04 15:00:48: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:322: attempt to call global 'split' (a nil value)
+2018-09-04 15:07:59: (critical) last message repeated 2 times
+2018-09-04 15:07:59: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:319: attempt to call global 'split' (a nil value)
+2018-09-04 15:13:02: (critical) last message repeated 2 times
+2018-09-04 15:13:02: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:331: attempt to concatenate local 'test_str' (a table value)
+2018-09-04 15:14:24: (critical) last message repeated 2 times
+2018-09-04 15:14:24: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:332: attempt to concatenate local 'test_str' (a table value)
+2018-09-04 15:17:09: (critical) last message repeated 2 times
+2018-09-04 15:17:09: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:338: attempt to call global 'split' (a nil value)
+2018-09-04 15:18:16: (critical) last message repeated 2 times
+2018-09-04 15:18:16: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:332: bad argument #1 to 'pairs' (table expected, got nil)
+2018-09-04 15:18:47: (critical) last message repeated 2 times
+2018-09-04 15:18:47: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:332: bad argument #1 to 'pairs' (table expected, got nil)
+2018-09-04 15:19:43: (critical) last message repeated 2 times
+2018-09-04 15:19:43: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:332: bad argument #1 to 'pairs' (table expected, got nil)
+2018-09-04 15:21:50: (critical) last message repeated 2 times
+2018-09-04 15:21:50: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:337: attempt to call global 'split' (a nil value)
+2018-09-04 15:22:40: (critical) last message repeated 2 times
+2018-09-04 15:22:40: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:310: attempt to index global 'self' (a nil value)
+2018-09-04 15:28:30: (critical) last message repeated 2 times
+2018-09-04 15:28:30: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:346: attempt to concatenate a table value
+2018-09-04 15:30:18: (critical) last message repeated 5 times
+2018-09-04 15:30:18: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:346: attempt to concatenate a table value
+2018-09-04 15:32:33: (critical) last message repeated 5 times
+2018-09-04 15:32:33: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:348: attempt to call global 'split' (a nil value)
+2018-09-04 15:35:19: (critical) last message repeated 2 times
+2018-09-04 15:35:19: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:332: attempt to call global 'split' (a nil value)
+2018-09-04 15:42:53: (critical) last message repeated 2 times
+2018-09-04 15:42:53: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:327: attempt to concatenate local 'limited_table' (a nil value)
+2018-09-04 15:46:02: (critical) last message repeated 3 times
+2018-09-04 15:46:02: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:327: attempt to concatenate local 'limited_table' (a nil value)
+2018-09-04 15:46:56: (critical) last message repeated 2 times
+2018-09-04 15:46:56: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:327: attempt to concatenate local 'limited_table' (a nil value)
+2018-09-04 15:58:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:330: attempt to concatenate local 'limited_tables' (a nil value)
+2018-09-04 16:00:05: (critical) last message repeated 2 times
+2018-09-04 16:00:05: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:330: attempt to concatenate local 'limited_tables' (a nil value)
+2018-09-04 16:01:08: (critical) last message repeated 1 times
+2018-09-04 16:01:08: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:330: attempt to concatenate local 'limited_tables' (a nil value)
+2018-09-04 16:08:15: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:317: attempt to concatenate global 'll_limitTab' (a nil value)
+2018-09-04 16:08:29: (critical) last message repeated 2 times
+2018-09-04 16:08:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:314: attempt to concatenate global 'll_limitTab' (a nil value)

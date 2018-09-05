@@ -1,0 +1,5 @@
+#!/bin/sh
+
+./mysql-proxy --proxy-lua-script=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/catch_query.lua --proxy-backend-addresses=dev-next-master-db:3306 --proxy-address=jenkins:4041 --log-level=message --log-file=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/logs/dev-next-master.out &
+
+#./mysql-proxy --proxy-lua-script=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/deploymenttrack.lua --proxy-backend-addresses=dev-next-db01:3306 --proxy-address=jenkins:4041 --log-level=debug --log-file=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/logs/dev-next-db01.debug &

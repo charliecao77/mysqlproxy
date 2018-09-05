@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./mysql-proxy --proxy-lua-script=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/inhodb03.lua --proxy-backend-addresses=inhodb03.vfmltech.com:30306 --proxy-address=jenkins:4041 --log-level=message --log-file=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/logs/inhodb03.out &
+

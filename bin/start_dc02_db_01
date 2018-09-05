@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./mysql-proxy --proxy-lua-script=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/deploymenttrack_notriggers.lua --proxy-backend-addresses=dc01-db-02.prod-cloud.com:30308 --proxy-address=jenkins:60600 --log-level=message --log-file=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/logs/dc01-db-02.out &

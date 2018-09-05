@@ -1,0 +1,112 @@
+2013-11-12 14:59:03: (critical) plugin proxy 0.8.3 started
+2013-11-12 14:59:03: (message) proxy listening on port jenkins:7071
+2013-11-12 14:59:03: (message) added read/write backend: poc-app02:3306
+2013-11-12 14:59:55: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/deploymenttrack_notriggers_test.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/deploy..."]:19: unexpected symbol near '/'
+2013-11-12 15:01:47: (message) last message repeated 1 times
+2013-11-12 15:01:47: (message) Initiating shutdown, requested from signal handler
+2013-11-12 15:01:47: (message) shutting down normally, exit code is: 0
+2013-11-12 15:01:53: (critical) plugin proxy 0.8.3 started
+2013-11-12 15:01:53: (message) proxy listening on port jenkins:7071
+2013-11-12 15:01:53: (message) added read/write backend: poc-app02:3306
+2013-11-12 15:01:56: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/deploymenttrack_notriggers_test.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/deploy..."]:19: unexpected symbol near '/'
+2013-11-12 15:02:59: (critical) last message repeated 1 times
+2013-11-12 15:02:59: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/deploymenttrack_notriggers_test.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/deploy..."]:19: unexpected symbol near '/'
+2013-11-12 15:04:14: (critical) last message repeated 4 times
+2013-11-12 15:04:14: (critical) network-mysqld-lua.c:234: lua_load_file(/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/deploymenttrack_notriggers_test.lua) failed: [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/deploy..."]:19: unexpected symbol near '/'
+2013-11-12 15:05:49: (message) Initiating shutdown, requested from signal handler
+2013-11-12 15:05:50: (message) shutting down normally, exit code is: 0
+2013-11-12 15:06:00: (critical) plugin proxy 0.8.3 started
+2013-11-12 15:06:00: (message) proxy listening on port jenkins:7071
+2013-11-12 15:06:00: (message) added read/write backend: poc-app02:3306
+2013-11-12 15:06:34: (critical) network-mysqld-packet.c:1265: protocol 10, but version number not parsable
+2013-11-12 15:08:25: (critical) network-mysqld-packet.c:1265: protocol 10, but version number not parsable
+2013-11-12 15:17:56: (message) Initiating shutdown, requested from signal handler
+2013-11-12 15:17:56: (message) shutting down normally, exit code is: 0
+2013-11-12 15:18:03: (critical) plugin proxy 0.8.3 started
+2013-11-12 15:18:03: (message) proxy listening on port jenkins:7071
+2013-11-12 15:18:03: (message) added read/write backend: poc-app02:3306
+2013-11-12 15:19:02: (critical) network-mysqld-packet.c:1265: protocol 10, but version number not parsable
+2013-11-12 15:19:54: (message) Initiating shutdown, requested from signal handler
+2013-11-12 15:19:54: (message) shutting down normally, exit code is: 0
+2013-11-12 15:19:58: (critical) plugin proxy 0.8.3 started
+2013-11-12 15:19:58: (message) proxy listening on port jenkins:7071
+2013-11-12 15:19:58: (message) added read/write backend: poc-master-db:13306
+2013-11-12 15:28:49: (message) Initiating shutdown, requested from signal handler
+2013-11-12 15:28:49: (message) shutting down normally, exit code is: 0
+2013-11-12 15:29:07: (critical) plugin proxy 0.8.3 started
+2013-11-12 15:29:07: (message) proxy listening on port jenkins:7071
+2013-11-12 15:29:07: (message) added read/write backend: poc-app02:3306
+2013-11-12 15:29:25: (critical) network-mysqld-packet.c:1265: protocol 10, but version number not parsable
+2013-11-12 15:33:30: (critical) network-mysqld-packet.c:1265: protocol 10, but version number not parsable
+2013-11-12 15:37:30: (critical) network-mysqld-packet.c:1265: protocol 10, but version number not parsable
+2013-11-12 15:39:33: (message) Initiating shutdown, requested from signal handler
+2013-11-12 15:39:33: (message) shutting down normally, exit code is: 0
+2013-11-12 15:39:39: (critical) plugin proxy 0.8.3 started
+2013-11-12 15:39:39: (message) proxy listening on port jenkins:7071
+2013-11-12 15:39:39: (message) added read/write backend: poc-app02:3306
+2013-11-12 15:39:52: (critical) network-mysqld-packet.c:1265: protocol 10, but version number not parsable
+2013-11-13 10:00:33: (message) Initiating shutdown, requested from signal handler
+2013-11-13 10:00:34: (message) shutting down normally, exit code is: 0
+2013-11-13 10:01:08: (critical) plugin proxy 0.8.3 started
+2013-11-13 10:01:08: (message) proxy listening on port jenkins:7071
+2013-11-13 10:01:08: (message) added read/write backend: poc-app02:3306
+2013-11-13 10:01:38: (critical) network-mysqld-packet.c:1265: protocol 10, but version number not parsable
+2013-11-13 10:03:53: (message) Initiating shutdown, requested from signal handler
+2013-11-13 10:03:54: (message) shutting down normally, exit code is: 0
+2013-11-13 10:04:22: (critical) plugin proxy 0.8.3 started
+2013-11-13 10:04:22: (message) proxy listening on port jenkins:7071
+2013-11-13 10:04:22: (message) added read/write backend: poc-app02.vfmltech.com:3306
+2013-11-13 10:04:24: (critical) network-mysqld-packet.c:1265: protocol 10, but version number not parsable
+2013-11-18 13:59:27: (message) Initiating shutdown, requested from signal handler
+2013-11-18 13:59:28: (message) shutting down normally, exit code is: 0
+2013-11-19 15:46:15: (critical) plugin proxy 0.8.3 started
+2013-11-19 15:46:15: (message) proxy listening on port jenkins:60702
+2013-11-19 15:46:15: (message) added read/write backend: poc-app02.vfmltech.com:3306
+2013-11-19 15:46:58: (message) Initiating shutdown, requested from signal handler
+2013-11-19 15:46:58: (message) shutting down normally, exit code is: 0
+2013-11-19 15:47:31: (critical) plugin proxy 0.8.3 started
+2013-11-19 15:47:31: (message) proxy listening on port jenkins:60702
+2013-11-19 15:47:31: (message) added read/write backend: dev-current-db01:3306
+2013-11-19 15:53:37: (message) Initiating shutdown, requested from signal handler
+2013-11-19 15:53:37: (message) shutting down normally, exit code is: 0
+2013-11-19 15:53:42: (critical) plugin proxy 0.8.3 started
+2013-11-19 15:53:42: (message) proxy listening on port jenkins:60702
+2013-11-19 15:53:42: (message) added read/write backend: dev-current-db01:3306
+2013-11-19 16:12:53: (message) Initiating shutdown, requested from signal handler
+2013-11-19 16:12:54: (message) shutting down normally, exit code is: 0
+2013-11-19 16:13:00: (critical) plugin proxy 0.8.3 started
+2013-11-19 16:13:00: (message) proxy listening on port jenkins:60702
+2013-11-19 16:13:00: (message) added read/write backend: dev-next-db01:3306
+2013-11-20 08:53:35: (message) Initiating shutdown, requested from signal handler
+2013-11-20 08:53:36: (message) shutting down normally, exit code is: 0
+2013-11-20 08:55:26: (critical) plugin proxy 0.8.3 started
+2013-11-20 08:55:26: (message) proxy listening on port jenkins:60702
+2013-11-20 08:55:26: (message) added read/write backend: poc-app02:3306
+2013-11-20 08:56:34: (critical) network-mysqld-packet.c:1265: protocol 10, but version number not parsable
+2013-11-20 08:57:05: (critical) last message repeated 86 times
+2013-11-20 08:57:05: (critical) network-mysqld-packet.c:1265: protocol 10, but version number not parsable
+2013-11-20 14:14:24: (message) last message repeated 33 times
+2013-11-20 14:14:24: (message) Initiating shutdown, requested from signal handler
+2013-11-20 14:14:24: (message) shutting down normally, exit code is: 0
+2013-11-20 14:19:05: (critical) plugin proxy 0.8.3 started
+2013-11-20 14:19:05: (message) proxy listening on port jenkins:60702
+2013-11-20 14:19:05: (message) added read/write backend: poc-master-db:13306
+2013-11-21 08:43:43: (message) Initiating shutdown, requested from signal handler
+2013-11-21 08:43:43: (message) shutting down normally, exit code is: 0
+2013-11-21 08:43:47: (critical) plugin proxy 0.8.3 started
+2013-11-21 08:43:47: (message) proxy listening on port jenkins:60702
+2013-11-21 08:43:47: (message) added read/write backend: poc-master-db:13306
+2013-11-21 11:16:30: (message) Initiating shutdown, requested from signal handler
+2013-11-21 11:16:30: (message) shutting down normally, exit code is: 0
+2013-11-21 11:51:57: (critical) plugin proxy 0.8.3 started
+2013-11-21 11:51:57: (message) proxy listening on port jenkins:60702
+2013-11-21 11:51:57: (message) added read/write backend: poc-master-db:13306
+2013-11-21 12:54:22: (message) Initiating shutdown, requested from signal handler
+2013-11-21 12:54:22: (message) shutting down normally, exit code is: 0
+2013-11-21 12:54:53: (critical) plugin proxy 0.8.3 started
+2013-11-21 12:54:53: (message) proxy listening on port jenkins:60702
+2013-11-21 12:54:53: (message) added read/write backend: poc-app02:3306
+2013-11-21 12:55:19: (critical) network-mysqld-packet.c:1265: protocol 10, but version number not parsable
+2013-11-21 12:56:09: (message) last message repeated 1 times
+2013-11-21 12:56:09: (message) Initiating shutdown, requested from signal handler
+2013-11-21 12:56:09: (message) shutting down normally, exit code is: 0

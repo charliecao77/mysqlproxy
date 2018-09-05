@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./mysql-proxy --proxy-lua-script=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/deploymenttrack_notriggers.lua --proxy-backend-addresses=10.91.103.22:13306 --proxy-address=jenkins:5053 --log-level=message --log-file=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/logs/ashburn02.out &

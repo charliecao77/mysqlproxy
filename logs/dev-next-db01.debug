@@ -1,0 +1,8 @@
+2013-06-26 10:22:49: (critical) plugin proxy 0.8.3 started
+2013-06-26 10:22:49: (debug) max open file-descriptors = 8000
+2013-06-26 10:22:49: (message) proxy listening on port jenkins:4041
+2013-06-26 10:22:49: (message) added read/write backend: dev-next-db01:3306
+2013-06-27 12:41:57: (debug) [network-mysqld.c:1134]: error on a connection (fd: -1 event: 0). closing client connection.
+2013-06-27 12:42:31: (debug) [network-mysqld.c:1134]: error on a connection (fd: -1 event: 0). closing client connection.
+2013-06-27 12:53:59: (debug) [network-mysqld.c:1134]: error on a connection (fd: -1 event: 0). closing client connection.
+2013-06-27 20:54:00: (debug) [network-mysqld.c:1134]: error on client connection (fd: 11 event: 1). closing client connection.

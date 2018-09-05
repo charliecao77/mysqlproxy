@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./mysql-proxy --proxy-lua-script=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/deploymenttrack_notriggers.lua --proxy-backend-addresses=qa-next-db-refresh:23306 --proxy-address=jenkins:5056 --proxy-write-timeout=28800 --log-level=message --log-file=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/logs/freshdb_qa.out &

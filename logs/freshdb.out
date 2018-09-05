@@ -1,0 +1,47 @@
+2013-10-08 09:38:33: (critical) plugin proxy 0.8.3 started
+2013-10-08 09:38:33: (message) proxy listening on port jenkins:5054
+2013-10-08 09:38:33: (message) added read/write backend: qa-next-db01-fresh:3306
+2013-10-08 09:39:47: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2013-10-08 13:30:30: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 7
+2013-10-09 11:52:28: (message) proxy-plugin.c.1664: connect(10.253.253.82:3306) failed: Connection refused. Retrying with different backend.
+2013-10-09 11:52:28: (critical) proxy-plugin.c.1773: Cannot connect, all backends are down.
+2013-10-09 12:56:45: (message) proxy-plugin.c.1664: connect(10.253.253.82:3306) failed: Connection refused. Retrying with different backend.
+2013-10-09 12:56:45: (critical) proxy-plugin.c.1773: Cannot connect, all backends are down.
+2013-10-09 16:17:01: (message) Initiating shutdown, requested from signal handler
+2013-10-09 16:17:02: (message) shutting down normally, exit code is: 0
+2013-10-09 16:18:06: (critical) plugin proxy 0.8.3 started
+2013-10-09 16:18:06: (message) proxy listening on port jenkins:5054
+2013-10-09 16:18:06: (critical) getaddrinfo("dev-current-db01-fresh") failed: Name or service not known
+2013-10-09 16:18:06: (critical) chassis-mainloop.c:267: applying config of plugin proxy failed
+2013-10-09 16:18:06: (critical) mysql-proxy-cli.c:597: Failure from chassis_mainloop. Shutting down.
+2013-10-09 16:18:06: (message) Initiating shutdown, requested from mysql-proxy-cli.c:598
+2013-10-09 16:18:06: (message) shutting down normally, exit code is: 1
+2013-10-09 16:21:13: (critical) plugin proxy 0.8.3 started
+2013-10-09 16:21:13: (message) proxy listening on port jenkins:5054
+2013-10-09 16:21:13: (critical) getaddrinfo("dev-current-db01-fresh") failed: Name or service not known
+2013-10-09 16:21:13: (critical) chassis-mainloop.c:267: applying config of plugin proxy failed
+2013-10-09 16:21:13: (critical) mysql-proxy-cli.c:597: Failure from chassis_mainloop. Shutting down.
+2013-10-09 16:21:13: (message) Initiating shutdown, requested from mysql-proxy-cli.c:598
+2013-10-09 16:21:13: (message) shutting down normally, exit code is: 1
+2013-10-09 16:28:47: (critical) plugin proxy 0.8.3 started
+2013-10-09 16:28:47: (message) proxy listening on port jenkins:5055
+2013-10-09 16:28:47: (message) added read/write backend: qa-next-db01-fresh:3306
+2013-10-10 09:35:32: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2013-10-10 11:11:24: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 7
+2013-10-10 11:47:30: (message) Initiating shutdown, requested from signal handler
+2013-10-10 11:47:30: (message) shutting down normally, exit code is: 0
+2013-10-10 11:48:19: (critical) plugin proxy 0.8.3 started
+2013-10-10 11:48:19: (message) proxy listening on port jenkins:5055
+2013-10-10 11:48:19: (message) added read/write backend: qa-next-db01-fresh:3306
+2013-12-04 14:37:22: (message) Initiating shutdown, requested from signal handler
+2013-12-04 14:37:23: (message) shutting down normally, exit code is: 0
+2013-12-12 09:07:55: (critical) plugin proxy 0.8.3 started
+2013-12-12 09:07:55: (message) proxy listening on port jenkins:5055
+2013-12-12 09:07:55: (message) added read/write backend: qa-current-db01-fresh:3306
+2013-12-12 09:10:34: (message) Initiating shutdown, requested from signal handler
+2013-12-12 09:10:34: (message) shutting down normally, exit code is: 0
+2013-12-13 09:56:21: (critical) plugin proxy 0.8.3 started
+2013-12-13 09:56:21: (message) proxy listening on port jenkins:5055
+2013-12-13 09:56:21: (message) added read/write backend: qa-next-db01-fresh:3306
+2013-12-13 12:34:53: (message) Initiating shutdown, requested from signal handler
+2013-12-13 12:34:53: (message) shutting down normally, exit code is: 0

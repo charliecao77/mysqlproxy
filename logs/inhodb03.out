@@ -1,0 +1,46 @@
+2018-08-08 16:05:36: (critical) plugin proxy 0.8.3 started
+2018-08-08 16:05:36: (message) proxy listening on port jenkins:4041
+2018-08-08 16:05:36: (message) added read/write backend: inhodb03.vfmltech.com:30306
+2018-08-10 11:17:01: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 11:18:06: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 11:18:44: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 11:25:02: (critical) last message repeated 1 times
+2018-08-10 11:25:02: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 11:26:13: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 11:30:23: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 11:30:57: (critical) last message repeated 1 times
+2018-08-10 11:30:57: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 11:31:44: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 11:34:55: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 11:35:32: (critical) last message repeated 1 times
+2018-08-10 11:35:32: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 11:37:53: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 11:48:06: (critical) last message repeated 1 times
+2018-08-10 11:48:06: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 11:57:15: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 12:00:24: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 12:05:08: (critical) last message repeated 1 times
+2018-08-10 12:05:08: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 12:05:58: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 12:07:07: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 12:13:40: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 13:59:27: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 14:16:49: (critical) last message repeated 1 times
+2018-08-10 14:16:49: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-10 14:22:49: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-13 08:40:24: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-13 12:42:34: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-13 12:43:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-13 13:10:21: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-14 09:17:49: (critical) last message repeated 1 times
+2018-08-14 09:17:49: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-15 07:58:45: (critical) last message repeated 1 times
+2018-08-15 07:58:45: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-15 12:47:09: (critical) last message repeated 1 times
+2018-08-15 12:47:09: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-16 07:10:30: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-17 09:35:34: (critical) last message repeated 1 times
+2018-08-17 09:35:34: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-29 12:47:15: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value
+2018-08-29 12:48:26: (critical) last message repeated 1 times
+2018-08-29 12:48:26: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:252: attempt to call a string value

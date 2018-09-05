@@ -1,0 +1,10 @@
+2017-06-30 11:51:34: (critical) plugin proxy 0.8.3 started
+2017-06-30 11:51:34: (message) proxy listening on port jenkins:5053
+2017-06-30 11:51:34: (message) added read/write backend: env03-db-01.leo-cloud.com:13306
+2018-08-08 15:33:01: (message) Initiating shutdown, requested from signal handler
+2018-08-08 15:33:02: (message) shutting down normally, exit code is: 0
+2018-08-08 15:33:19: (critical) plugin proxy 0.8.3 started
+2018-08-08 15:33:19: (message) proxy listening on port jenkins:5053
+2018-08-08 15:33:19: (message) added read/write backend: env03-db-01.leo-cloud.com:13306
+2018-08-08 15:33:41: (message) Initiating shutdown, requested from signal handler
+2018-08-08 15:33:41: (message) shutting down normally, exit code is: 0

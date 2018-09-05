@@ -1,0 +1,6 @@
+#!/bin/sh
+
+#./mysql-proxy --proxy-lua-script=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/share/doc/mysql-proxy/tutorial-inject.lua --proxy-backend-addresses=dev-next-db01.vfmltech.com:3306 --proxy-address=jenkins:5053 --log-level=message --log-file=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/logs/dev-next-db01.out &
+./mysql-proxy --proxy-lua-script=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/bin/basic.lua --proxy-backend-addresses=dev-next-db01.vfmltech.com:3306 --proxy-address=jenkins:5053 --log-level=message --log-file=/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-x86-64bit/logs/dev-next-db01.out &
+
+

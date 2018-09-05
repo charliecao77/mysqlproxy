@@ -1,0 +1,19 @@
+2014-03-28 14:48:57: (critical) plugin proxy 0.8.3 started
+2014-03-28 14:48:57: (message) proxy listening on port jenkins:4042
+2014-03-28 14:48:57: (message) added read/write backend: collodb03:30306
+2014-03-28 14:49:57: (message) Initiating shutdown, requested from signal handler
+2014-03-28 14:49:58: (message) shutting down normally, exit code is: 0
+2014-03-28 14:51:42: (critical) plugin proxy 0.8.3 started
+2014-03-28 14:51:42: (message) proxy listening on port jenkins:4049
+2014-03-28 14:51:42: (message) added read/write backend: collodb03:30306
+2014-03-28 14:53:04: (message) Initiating shutdown, requested from signal handler
+2014-03-28 14:53:04: (message) shutting down normally, exit code is: 0
+2014-03-28 14:53:32: (critical) plugin proxy 0.8.3 started
+2014-03-28 14:53:32: (message) proxy listening on port jenkins:60700
+2014-03-28 14:53:32: (message) added read/write backend: collodb03:30306
+2014-03-28 14:53:37: (message) proxy-plugin.c.1664: connect(10.98.63.204:30306) failed: Connection refused. Retrying with different backend.
+2014-03-28 14:53:37: (critical) proxy-plugin.c.1773: Cannot connect, all backends are down.
+2014-03-28 14:53:50: (message) proxy-plugin.c.1664: connect(10.98.63.204:30306) failed: Connection refused. Retrying with different backend.
+2014-03-28 14:53:50: (critical) proxy-plugin.c.1773: Cannot connect, all backends are down.
+2014-04-02 09:15:03: (message) Initiating shutdown, requested from signal handler
+2014-04-02 09:15:03: (message) shutting down normally, exit code is: 0

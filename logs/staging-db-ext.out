@@ -1,0 +1,46 @@
+2013-06-26 10:33:00: (critical) plugin proxy 0.8.3 started
+2013-06-26 10:33:00: (message) proxy listening on port jenkins:5053
+2013-06-26 10:33:00: (message) added read/write backend: staging-db-ext:3306
+2013-07-11 11:39:09: (critical) plugin proxy 0.8.3 started
+2013-07-11 11:39:09: (message) proxy listening on port jenkins:5053
+2013-07-11 11:39:09: (message) added read/write backend: staging-db-ext:3306
+2013-08-02 11:02:09: (critical) plugin proxy 0.8.3 started
+2013-08-02 11:02:09: (message) proxy listening on port jenkins:5053
+2013-08-02 11:02:09: (message) added read/write backend: staging-db-ext:3306
+2013-08-08 11:01:02: (critical) plugin proxy 0.8.3 started
+2013-08-08 11:01:02: (message) proxy listening on port jenkins:5053
+2013-08-08 11:01:02: (message) added read/write backend: staging-db-ext:3306
+2013-08-13 21:02:46: (message) Initiating shutdown, requested from signal handler
+2013-08-13 21:02:47: (message) shutting down normally, exit code is: 0
+2013-08-14 10:38:03: (critical) plugin proxy 0.8.3 started
+2013-08-14 10:38:04: (message) proxy listening on port jenkins:5053
+2013-08-14 10:38:05: (message) added read/write backend: staging-db-ext:3306
+2013-12-04 14:37:22: (message) Initiating shutdown, requested from signal handler
+2013-12-04 14:37:23: (message) shutting down normally, exit code is: 0
+2013-12-06 11:17:24: (critical) plugin proxy 0.8.3 started
+2013-12-06 11:17:24: (message) proxy listening on port jenkins:5053
+2013-12-06 11:17:24: (message) added read/write backend: staging-db-ext:3306
+2014-03-17 19:20:33: (message) Initiating shutdown, requested from signal handler
+2014-03-17 19:20:33: (message) shutting down normally, exit code is: 0
+2014-03-18 14:23:37: (critical) plugin proxy 0.8.3 started
+2014-03-18 14:23:37: (message) proxy listening on port jenkins:5053
+2014-03-18 14:23:37: (message) added read/write backend: staging-db-ext:3306
+2014-03-27 19:35:17: (message) Initiating shutdown, requested from signal handler
+2014-03-27 19:35:17: (message) shutting down normally, exit code is: 0
+2014-03-28 08:44:46: (critical) plugin proxy 0.8.3 started
+2014-03-28 08:44:46: (message) proxy listening on port jenkins:5053
+2014-03-28 08:44:46: (message) added read/write backend: staging-db-ext:3306
+2014-05-12 12:02:55: (message) Initiating shutdown, requested from signal handler
+2014-05-12 12:02:55: (message) shutting down normally, exit code is: 0
+2015-04-27 09:38:57: (critical) plugin proxy 0.8.3 started
+2015-04-27 09:38:57: (message) proxy listening on port jenkins:5053
+2015-04-27 09:38:57: (message) added read/write backend: poc-db01.prod-cloud.com:13306
+2015-04-27 09:40:13: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2015-04-27 09:58:18: (message) last message repeated 4 times
+2015-04-27 09:58:18: (message) Initiating shutdown, requested from signal handler
+2015-04-27 09:58:18: (message) shutting down normally, exit code is: 0
+2015-04-27 09:58:23: (critical) plugin proxy 0.8.3 started
+2015-04-27 09:58:23: (message) proxy listening on port jenkins:5053
+2015-04-27 09:58:23: (message) added read/write backend: poc-db01.prod-cloud.com:13306
+2015-04-27 13:24:45: (message) Initiating shutdown, requested from signal handler
+2015-04-27 13:24:45: (message) shutting down normally, exit code is: 0

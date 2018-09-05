@@ -1,0 +1,14 @@
+2013-07-29 09:29:30: (critical) plugin proxy 0.8.3 started
+2013-07-29 09:29:30: (message) proxy listening on port jenkins:5058
+2013-07-29 09:29:30: (message) added read/write backend: 10.253.253.81:3306
+2013-07-29 09:39:18: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2013-07-29 09:48:05: (message) last message repeated 7 times
+2013-07-29 09:48:05: (message) Initiating shutdown, requested from signal handler
+2013-07-29 09:48:06: (message) shutting down normally, exit code is: 0
+2013-07-29 09:55:43: (critical) plugin proxy 0.8.3 started
+2013-07-29 09:55:43: (message) proxy listening on port jenkins:5054
+2013-07-29 09:55:43: (message) added read/write backend: 10.253.253.81:3306
+2013-08-02 11:01:59: (critical) plugin proxy 0.8.3 started
+2013-08-02 11:01:59: (message) proxy listening on port jenkins:5054
+2013-08-02 11:01:59: (message) added read/write backend: 10.253.253.81:3306
+2013-08-07 08:55:03: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3

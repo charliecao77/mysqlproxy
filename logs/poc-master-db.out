@@ -1,0 +1,94 @@
+2013-11-18 13:56:06: (critical) plugin proxy 0.8.3 started
+2013-11-18 13:56:06: (critical) network-address.c:110: illegal value 80800 for port, only 1 ... 65535 allowed
+2013-11-18 13:56:06: (critical) chassis-mainloop.c:267: applying config of plugin proxy failed
+2013-11-18 13:56:06: (critical) mysql-proxy-cli.c:597: Failure from chassis_mainloop. Shutting down.
+2013-11-18 13:56:06: (message) Initiating shutdown, requested from mysql-proxy-cli.c:598
+2013-11-18 13:56:06: (message) shutting down normally, exit code is: 1
+2013-11-18 14:00:04: (critical) plugin proxy 0.8.3 started
+2013-11-18 14:00:04: (critical) network-address.c:110: illegal value 70700 for port, only 1 ... 65535 allowed
+2013-11-18 14:00:04: (critical) chassis-mainloop.c:267: applying config of plugin proxy failed
+2013-11-18 14:00:04: (critical) mysql-proxy-cli.c:597: Failure from chassis_mainloop. Shutting down.
+2013-11-18 14:00:04: (message) Initiating shutdown, requested from mysql-proxy-cli.c:598
+2013-11-18 14:00:04: (message) shutting down normally, exit code is: 1
+2013-11-18 14:01:16: (critical) plugin proxy 0.8.3 started
+2013-11-18 14:01:16: (critical) network-address.c:110: illegal value 70700 for port, only 1 ... 65535 allowed
+2013-11-18 14:01:16: (critical) chassis-mainloop.c:267: applying config of plugin proxy failed
+2013-11-18 14:01:16: (critical) mysql-proxy-cli.c:597: Failure from chassis_mainloop. Shutting down.
+2013-11-18 14:01:16: (message) Initiating shutdown, requested from mysql-proxy-cli.c:598
+2013-11-18 14:01:16: (message) shutting down normally, exit code is: 1
+2013-11-18 14:02:02: (critical) plugin proxy 0.8.3 started
+2013-11-18 14:02:02: (critical) network-address.c:110: illegal value 70700 for port, only 1 ... 65535 allowed
+2013-11-18 14:02:02: (critical) chassis-mainloop.c:267: applying config of plugin proxy failed
+2013-11-18 14:02:02: (critical) mysql-proxy-cli.c:597: Failure from chassis_mainloop. Shutting down.
+2013-11-18 14:02:02: (message) Initiating shutdown, requested from mysql-proxy-cli.c:598
+2013-11-18 14:02:02: (message) shutting down normally, exit code is: 1
+2013-11-18 14:03:20: (critical) plugin proxy 0.8.3 started
+2013-11-18 14:03:20: (critical) network-address.c:110: illegal value 70700 for port, only 1 ... 65535 allowed
+2013-11-18 14:03:20: (critical) chassis-mainloop.c:267: applying config of plugin proxy failed
+2013-11-18 14:03:20: (critical) mysql-proxy-cli.c:597: Failure from chassis_mainloop. Shutting down.
+2013-11-18 14:03:20: (message) Initiating shutdown, requested from mysql-proxy-cli.c:598
+2013-11-18 14:03:20: (message) shutting down normally, exit code is: 1
+2013-11-18 14:07:02: (critical) plugin proxy 0.8.3 started
+2013-11-18 14:07:02: (message) proxy listening on port jenkins:60700
+2013-11-18 14:07:02: (message) added read/write backend: poc-master-db:13306
+2013-11-18 14:07:24: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2013-11-18 14:07:24: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2013-11-18 14:07:24: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2013-11-18 14:07:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 4
+2013-11-18 14:07:29: (critical) (read_query_result) [string "/opt/apps/mysql-proxy-0.8.3-linux-glibc2.3-..."]:295: attempt to index global 'res3' (a nil value)
+2013-11-18 14:07:29: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 5
+2013-11-18 14:08:27: (message) Initiating shutdown, requested from signal handler
+2013-11-18 14:08:27: (message) shutting down normally, exit code is: 0
+2013-11-18 14:12:06: (critical) plugin proxy 0.8.3 started
+2013-11-18 14:12:06: (message) proxy listening on port jenkins:60700
+2013-11-18 14:12:06: (message) added read/write backend: poc-master-db:13306
+2013-11-18 14:12:27: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2013-11-18 14:12:28: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 2 resultset(s). injection-id: 4
+2013-11-18 14:12:47: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 3
+2013-11-19 14:16:06: (message) last message repeated 1 times
+2013-11-19 14:16:06: (message) Initiating shutdown, requested from signal handler
+2013-11-19 14:16:07: (message) shutting down normally, exit code is: 0
+2013-11-19 14:16:14: (critical) plugin proxy 0.8.3 started
+2013-11-19 14:16:14: (message) proxy listening on port jenkins:60700
+2013-11-19 14:16:14: (message) added read/write backend: poc-master-db:13306
+2013-11-20 09:10:06: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2013-12-02 13:06:50: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2013-12-04 14:37:22: (message) Initiating shutdown, requested from signal handler
+2013-12-04 14:37:23: (message) shutting down normally, exit code is: 0
+2013-12-06 11:16:58: (critical) plugin proxy 0.8.3 started
+2013-12-06 11:16:58: (message) proxy listening on port jenkins:60700
+2013-12-06 11:16:58: (message) added read/write backend: poc-master-db:13306
+2014-01-16 11:57:44: (message) Initiating shutdown, requested from signal handler
+2014-01-16 11:57:44: (message) shutting down normally, exit code is: 0
+2014-01-16 11:58:02: (critical) plugin proxy 0.8.3 started
+2014-01-16 11:58:02: (message) proxy listening on port jenkins:60700
+2014-01-16 11:58:02: (message) added read/write backend: poc-master-db:13306
+2014-01-16 11:58:43: (message) Initiating shutdown, requested from signal handler
+2014-01-16 11:58:43: (message) shutting down normally, exit code is: 0
+2014-01-16 12:03:56: (critical) plugin proxy 0.8.3 started
+2014-01-16 12:03:56: (message) proxy listening on port jenkins:60602
+2014-01-16 12:03:56: (message) added read/write backend: poc-master-db:13306
+2014-01-16 12:06:42: (message) Initiating shutdown, requested from signal handler
+2014-01-16 12:06:43: (message) shutting down normally, exit code is: 0
+2014-01-16 12:06:50: (critical) plugin proxy 0.8.3 started
+2014-01-16 12:06:50: (message) proxy listening on port jenkins:60700
+2014-01-16 12:06:50: (message) added read/write backend: poc-master-db:13306
+2014-01-16 12:08:05: (message) Initiating shutdown, requested from signal handler
+2014-01-16 12:08:05: (message) shutting down normally, exit code is: 0
+2014-01-16 12:08:41: (critical) plugin proxy 0.8.3 started
+2014-01-16 12:08:41: (message) proxy listening on port jenkins:4047
+2014-01-16 12:08:41: (message) added read/write backend: poc-master-db:13306
+2014-01-16 12:09:16: (message) Initiating shutdown, requested from signal handler
+2014-01-16 12:09:16: (message) shutting down normally, exit code is: 0
+2014-01-16 12:11:34: (critical) plugin proxy 0.8.3 started
+2014-01-16 12:11:34: (message) proxy listening on port jenkins:60700
+2014-01-16 12:11:34: (message) added read/write backend: poc-master-db:13306
+2014-01-16 14:35:08: (critical) proxy-plugin.c.364: got asked to send a resultset, but ignoring it as we already have sent 1 resultset(s). injection-id: 61
+2014-02-21 12:47:02: (message) proxy-plugin.c.1664: connect(10.253.253.69:13306) failed: Connection refused. Retrying with different backend.
+2014-02-21 12:47:02: (critical) proxy-plugin.c.1773: Cannot connect, all backends are down.
+2014-02-21 12:48:01: (message) proxy-plugin.c.1664: connect(10.253.253.69:13306) failed: Connection refused. Retrying with different backend.
+2014-02-21 12:48:01: (critical) proxy-plugin.c.1773: Cannot connect, all backends are down.
+2014-02-21 12:50:01: (message) proxy-plugin.c.1664: connect(10.253.253.69:13306) failed: Connection refused. Retrying with different backend.
+2014-02-21 12:50:01: (critical) proxy-plugin.c.1773: Cannot connect, all backends are down.
+2014-03-17 19:20:33: (message) Initiating shutdown, requested from signal handler
+2014-03-17 19:20:34: (message) shutting down normally, exit code is: 0
